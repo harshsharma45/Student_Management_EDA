@@ -1,0 +1,1546 @@
+student_id,age,gender,major,GPA,course_load,avg_course_grade,attendance_rate,enrollment_status,lms_logins_past_month,avg_session_duration_minutes,assignment_submission_rate,forum_participation_count,video_completion_rate,risk_level
+S001,24,Other,Computer Science,2.42,5,67.2,0.71,Graduated,32,33,0.7,8,0.74,High
+S002,21,Male,Arts,3.73,6,64.4,0.84,Leave,29,53,0.91,13,0.85,Medium
+S003,22,Male,Computer Science,2.8,3,95.3,0.89,Graduated,34,69,0.58,18,0.99,Medium
+S004,24,Male,Arts,2.59,4,73.7,0.98,Graduated,22,18,0.91,6,0.72,Medium
+S005,20,Other,Computer Science,2.3,4,87.4,0.95,Active,9,11,0.77,15,0.76,High
+S006,25,Male,Engineering,2.53,4,61.0,0.81,Active,18,65,0.61,19,0.76,Medium
+S007,22,Female,Engineering,2.04,3,87.6,0.91,Active,27,39,0.7,4,0.77,High
+S008,22,Other,Computer Science,3.17,4,72.6,0.82,Active,22,31,0.99,9,0.76,Medium
+S009,24,Other,Computer Science,3.68,6,62.2,0.82,Active,3,84,0.89,17,0.5,Medium
+S010,19,Other,Engineering,3.1,4,84.4,0.65,Active,19,22,0.79,10,0.5,High
+S011,20,Other,Arts,2.44,4,69.6,0.65,Leave,18,80,0.56,6,0.55,High
+S012,24,Female,Engineering,2.07,6,75.5,0.81,Active,26,25,0.71,13,0.55,High
+S013,20,Other,Arts,2.43,4,63.2,0.71,Graduated,33,54,0.63,19,0.85,High
+S014,20,Other,Computer Science,2.83,6,65.9,0.61,Leave,3,74,0.54,17,0.6,High
+S015,25,Male,Computer Science,3.52,4,71.9,0.89,Graduated,37,20,0.77,10,0.95,Low
+S016,22,Other,Arts,2.38,6,63.6,0.61,Active,6,79,0.94,11,0.96,High
+S017,21,Female,Computer Science,3.44,4,96.4,0.84,Active,6,29,0.84,17,0.99,Medium
+S018,25,Female,Arts,3.73,6,60.2,0.82,Graduated,25,72,0.62,1,0.97,Medium
+S019,25,Female,Business,2.91,3,79.4,0.99,Graduated,25,21,0.79,0,0.64,Medium
+S020,20,Female,Engineering,3.64,6,64.9,0.79,Graduated,18,71,0.97,9,0.75,Medium
+S021,23,Other,Business,3.11,4,72.3,0.63,Leave,8,51,0.86,0,0.59,High
+S022,22,Other,Arts,3.27,4,97.0,0.82,Active,19,78,0.84,5,0.9,Medium
+S023,19,Female,Engineering,3.05,5,66.5,0.94,Graduated,15,67,0.98,6,0.94,Low
+S024,25,Female,Arts,2.93,6,98.6,1.0,Active,16,14,0.9,16,0.93,Medium
+S025,21,Other,Engineering,2.47,3,68.2,0.77,Graduated,21,36,0.57,8,0.72,High
+S026,23,Female,Engineering,2.61,6,89.7,0.73,Active,12,37,0.67,6,0.88,High
+S027,23,Male,Engineering,2.58,6,81.9,0.96,Leave,11,35,0.98,16,0.55,Medium
+S028,19,Female,Engineering,3.13,3,95.4,0.68,Active,9,58,0.74,2,0.52,High
+S029,25,Female,Arts,2.24,6,82.2,0.85,Graduated,0,30,0.56,15,0.88,High
+S030,21,Male,Engineering,3.83,3,81.4,0.76,Active,31,10,0.73,4,0.71,Medium
+S031,22,Male,Engineering,3.44,3,67.8,0.62,Leave,29,67,0.85,19,1.0,High
+S032,18,Other,Business,2.8,6,66.6,0.74,Leave,7,88,1.0,17,0.55,High
+S033,21,Other,Computer Science,2.32,6,96.7,0.71,Active,20,64,0.66,0,0.93,High
+S034,19,Male,Computer Science,3.76,4,73.1,0.87,Graduated,21,35,0.76,3,0.74,Low
+S035,23,Male,Business,3.65,4,74.9,0.98,Leave,17,34,0.94,10,0.91,Low
+S036,22,Other,Business,3.44,5,90.4,0.71,Leave,1,86,0.68,19,0.91,High
+S037,21,Female,Arts,2.54,5,73.6,0.92,Active,8,42,0.55,8,0.96,Medium
+S038,18,Male,Arts,2.8,6,98.1,0.62,Leave,2,81,0.97,7,0.65,High
+S039,18,Other,Arts,2.21,3,89.5,0.82,Leave,25,78,0.74,7,0.97,High
+S040,20,Female,Business,2.38,5,83.9,0.63,Graduated,20,15,0.75,4,0.58,High
+S041,20,Male,Business,3.57,6,95.2,0.97,Graduated,29,32,0.81,11,0.54,Low
+S042,24,Female,Engineering,3.43,5,62.0,0.91,Graduated,27,39,0.5,0,0.72,Low
+S043,19,Other,Arts,3.19,3,70.3,0.86,Active,35,87,0.97,14,0.91,Low
+S044,25,Male,Arts,3.79,6,78.6,0.93,Leave,25,63,0.68,17,0.74,Low
+S045,21,Female,Arts,3.17,3,69.1,0.86,Active,33,20,0.7,5,0.91,Low
+S046,21,Male,Computer Science,2.93,6,89.8,0.99,Leave,7,40,0.59,9,0.86,Medium
+S047,25,Female,Engineering,2.68,5,96.8,0.89,Leave,9,15,0.69,13,0.6,Medium
+S048,24,Other,Arts,3.88,4,77.0,0.97,Leave,13,20,0.9,7,0.97,Low
+S049,23,Other,Arts,2.17,5,73.7,0.81,Graduated,39,86,0.9,2,0.53,High
+S050,23,Male,Arts,3.86,5,98.5,0.65,Active,14,21,0.97,18,0.95,High
+S051,24,Female,Computer Science,3.65,4,77.8,0.81,Active,16,75,0.7,11,0.65,Medium
+S052,23,Male,Computer Science,2.26,4,79.6,0.65,Leave,17,62,0.85,11,0.75,High
+S053,20,Male,Business,3.13,6,74.1,0.84,Active,31,45,0.75,14,0.71,Medium
+S054,21,Female,Engineering,3.73,6,96.4,0.79,Graduated,37,26,0.9,6,0.59,Medium
+S055,24,Female,Business,3.14,3,82.8,0.85,Active,22,37,0.86,3,0.68,Low
+S056,21,Female,Engineering,3.81,3,90.5,0.6,Leave,22,31,0.68,8,0.6,High
+S057,25,Other,Computer Science,3.89,5,92.5,0.68,Graduated,34,16,0.67,15,0.6,High
+S058,18,Male,Arts,2.84,4,73.7,0.8,Graduated,38,24,0.63,12,0.59,Medium
+S059,20,Male,Business,2.75,3,77.3,0.98,Leave,14,20,0.79,3,0.74,Medium
+S060,22,Other,Arts,3.87,5,93.9,0.75,Active,23,33,0.98,8,0.9,Medium
+S061,20,Female,Business,3.35,4,74.5,0.77,Leave,27,76,0.6,17,0.78,Medium
+S062,24,Other,Computer Science,2.23,6,91.8,0.89,Active,15,39,0.55,14,0.95,High
+S063,22,Other,Computer Science,2.08,5,97.6,0.84,Active,15,79,0.56,14,0.82,High
+S064,18,Other,Computer Science,3.13,6,84.9,0.72,Graduated,39,75,0.89,5,0.84,High
+S065,24,Male,Business,3.86,3,89.7,0.76,Leave,38,70,0.68,10,0.83,Medium
+S066,19,Other,Engineering,3.69,3,92.2,0.69,Graduated,5,87,0.61,7,0.72,High
+S067,21,Male,Business,3.35,4,93.8,0.99,Leave,1,50,0.68,16,0.84,Low
+S068,18,Male,Engineering,2.28,5,75.8,0.65,Leave,12,60,0.82,16,0.53,High
+S069,21,Male,Business,2.51,6,62.1,0.75,Graduated,8,53,0.77,17,0.93,Medium
+S070,23,Female,Business,3.75,4,76.1,0.61,Leave,33,22,0.87,3,0.89,High
+S071,19,Male,Computer Science,2.37,3,87.0,0.69,Leave,16,21,0.67,14,0.62,High
+S072,19,Male,Arts,2.56,3,78.0,0.91,Active,26,18,0.73,1,0.88,Medium
+S073,18,Female,Arts,2.26,5,90.0,0.68,Leave,28,57,0.55,1,0.51,High
+S074,19,Male,Engineering,3.35,6,74.3,0.63,Leave,36,58,0.54,9,0.61,High
+S075,22,Other,Arts,3.89,5,85.4,0.79,Graduated,21,62,0.73,2,0.53,Medium
+S076,19,Other,Business,2.54,6,67.5,0.6,Graduated,23,65,0.65,7,0.89,High
+S077,21,Male,Business,2.95,6,90.0,0.63,Leave,6,49,0.81,19,0.88,High
+S078,21,Female,Computer Science,3.27,5,81.8,0.92,Active,33,33,0.52,6,0.91,Low
+S079,24,Other,Computer Science,4.0,4,68.2,0.91,Active,11,81,0.56,11,0.5,Low
+S080,21,Female,Arts,2.21,5,71.7,0.97,Graduated,22,42,0.93,18,0.75,High
+S081,24,Female,Engineering,3.0,5,89.9,0.94,Leave,14,32,0.78,14,0.85,Low
+S082,21,Other,Arts,2.77,3,79.3,0.87,Leave,32,86,0.86,13,0.58,Medium
+S083,22,Female,Arts,3.73,3,68.6,0.62,Active,12,63,0.92,15,0.82,High
+S084,25,Other,Arts,2.95,5,98.7,0.91,Active,22,62,0.73,13,0.54,Medium
+S085,24,Female,Arts,2.22,5,88.6,0.94,Active,37,58,0.88,2,0.59,High
+S086,20,Other,Business,3.27,3,98.3,0.92,Graduated,31,87,0.76,17,0.74,Low
+S087,23,Male,Engineering,3.54,6,77.1,0.8,Leave,34,87,0.61,5,0.83,Medium
+S088,18,Other,Business,2.01,5,79.0,0.69,Graduated,0,89,0.67,16,0.57,High
+S089,21,Other,Engineering,3.72,4,95.9,0.94,Leave,4,58,0.75,13,0.59,Low
+S090,19,Other,Computer Science,2.37,4,81.0,0.89,Graduated,12,69,0.66,13,0.6,High
+S091,25,Other,Arts,3.1,4,88.3,0.99,Leave,4,74,0.67,19,0.62,Low
+S092,21,Female,Business,2.83,5,70.1,0.66,Active,31,41,0.67,12,0.61,High
+S093,19,Male,Engineering,3.44,6,77.9,0.69,Active,20,88,0.56,2,0.7,High
+S094,23,Other,Computer Science,2.74,6,64.9,0.68,Active,23,30,0.54,12,0.83,High
+S095,23,Female,Computer Science,3.74,3,68.2,0.92,Graduated,17,27,0.52,1,0.72,Low
+S096,23,Male,Arts,3.46,5,60.0,0.67,Active,20,69,0.56,8,0.89,High
+S097,19,Male,Engineering,3.3,6,61.6,0.63,Leave,9,22,0.67,12,0.86,High
+S098,21,Male,Business,3.59,5,99.1,1.0,Graduated,23,33,0.8,7,0.56,Low
+S099,23,Male,Arts,3.51,3,69.7,0.61,Leave,39,39,0.59,15,0.52,High
+S100,22,Other,Business,2.07,3,86.5,0.93,Graduated,20,11,0.94,2,0.94,High
+S101,24,Other,Computer Science,2.79,3,93.6,0.75,Leave,24,34,0.9,12,0.54,Medium
+S102,19,Female,Business,3.86,4,82.0,0.94,Leave,22,59,0.76,3,0.57,Low
+S103,19,Female,Business,2.25,5,66.1,0.82,Graduated,21,23,0.86,17,0.51,High
+S104,21,Female,Arts,3.47,3,89.1,0.96,Graduated,3,15,0.68,1,0.81,Low
+S105,19,Male,Business,3.95,5,84.0,0.97,Active,33,85,0.52,19,0.79,Low
+S106,19,Male,Arts,2.1,4,89.3,0.6,Active,5,39,0.95,14,0.99,High
+S107,23,Other,Computer Science,3.36,4,90.8,0.63,Leave,27,39,0.56,16,0.94,High
+S108,21,Male,Arts,2.94,3,99.0,0.7,Leave,30,47,0.97,9,0.71,High
+S109,23,Male,Arts,3.16,3,82.9,0.87,Leave,34,67,0.79,0,0.69,Low
+S110,24,Male,Engineering,2.17,6,73.7,0.96,Graduated,38,50,0.65,5,0.65,High
+S111,25,Female,Business,2.09,5,85.9,0.78,Graduated,22,66,0.75,2,0.58,High
+S112,24,Female,Computer Science,3.33,3,62.7,0.84,Active,5,45,0.75,18,0.57,Medium
+S113,25,Other,Arts,3.65,6,95.9,0.68,Leave,15,73,0.51,6,0.57,High
+S114,23,Male,Computer Science,3.56,5,64.8,0.92,Active,1,25,0.68,12,0.56,Low
+S115,24,Male,Engineering,3.09,3,73.1,0.99,Graduated,23,87,0.87,12,0.62,Low
+S116,21,Other,Business,2.2,6,92.6,0.71,Graduated,16,81,0.76,16,0.65,High
+S117,18,Male,Arts,3.38,6,83.9,0.8,Graduated,0,23,0.62,0,0.98,Medium
+S118,23,Male,Business,2.48,5,75.7,0.63,Active,5,40,0.67,13,0.79,High
+S119,25,Female,Engineering,3.82,6,78.9,0.82,Graduated,4,75,0.93,2,0.99,Medium
+S120,22,Other,Engineering,3.68,5,94.2,0.8,Leave,28,77,0.76,13,0.69,Medium
+S121,25,Other,Computer Science,3.42,5,73.6,0.66,Active,11,74,0.76,0,0.73,High
+S122,22,Other,Arts,3.9,5,94.8,0.78,Graduated,38,64,0.98,15,0.66,Medium
+S123,19,Other,Computer Science,2.06,4,63.5,0.73,Active,2,87,0.66,9,0.59,High
+S124,24,Female,Engineering,3.47,6,91.1,0.81,Active,0,49,0.74,12,0.57,Medium
+S125,22,Female,Business,2.66,5,93.9,0.83,Graduated,26,34,0.91,3,0.97,Medium
+S126,25,Male,Computer Science,3.81,3,67.3,0.6,Graduated,23,34,0.88,8,0.99,High
+S127,19,Male,Computer Science,2.53,4,77.2,0.9,Active,18,12,0.63,13,0.52,Medium
+S128,18,Male,Business,3.45,4,66.6,0.89,Active,7,78,0.58,3,0.58,Low
+S129,21,Male,Computer Science,3.76,6,88.3,0.75,Graduated,1,35,0.85,9,0.71,Medium
+S130,21,Female,Business,2.08,5,81.4,0.62,Leave,29,49,0.63,7,0.59,High
+S131,21,Other,Arts,2.8,6,85.4,0.9,Active,29,47,0.96,2,0.68,Medium
+S132,22,Female,Business,3.52,4,67.9,0.98,Active,38,47,0.56,6,0.56,Low
+S133,18,Male,Arts,2.91,5,68.5,0.7,Leave,31,77,0.66,9,0.73,High
+S134,22,Female,Business,2.53,3,61.7,0.73,Graduated,0,16,0.53,2,0.64,High
+S135,24,Other,Engineering,2.44,5,72.9,0.67,Graduated,37,39,0.85,1,0.68,High
+S136,22,Other,Engineering,2.26,4,82.4,0.83,Leave,12,28,0.95,14,0.55,High
+S137,18,Female,Arts,3.71,3,94.3,0.66,Graduated,10,44,0.82,8,0.71,High
+S138,18,Female,Arts,3.15,5,86.7,0.74,Graduated,9,42,0.97,14,0.99,High
+S139,24,Female,Engineering,2.15,3,77.4,0.88,Active,25,42,0.56,16,0.66,High
+S140,18,Male,Arts,2.77,3,98.1,0.82,Active,19,87,0.54,6,0.94,Medium
+S141,25,Female,Business,2.74,4,88.8,0.75,Active,16,47,0.92,19,0.92,Medium
+S142,18,Female,Business,2.36,3,97.2,0.77,Leave,16,19,0.93,17,0.98,High
+S143,21,Female,Engineering,2.87,6,81.1,0.82,Graduated,3,66,0.92,14,0.9,Medium
+S144,25,Other,Computer Science,2.66,4,70.4,0.6,Graduated,4,37,0.9,17,0.83,High
+S145,25,Other,Business,2.68,6,62.1,0.63,Active,22,87,0.68,11,0.93,High
+S146,24,Male,Arts,3.48,3,89.0,0.95,Active,9,47,0.61,7,0.54,Low
+S147,20,Male,Computer Science,2.45,6,64.9,0.63,Leave,27,25,0.96,1,0.73,High
+S148,20,Other,Computer Science,3.28,5,72.1,0.88,Graduated,32,30,0.65,1,0.99,Low
+S149,18,Other,Business,3.14,3,81.3,0.97,Leave,25,15,0.7,4,0.88,Low
+S150,25,Other,Business,3.14,5,82.6,0.71,Graduated,28,50,0.85,0,0.98,High
+S151,20,Female,Computer Science,3.33,6,84.0,0.75,Leave,26,24,0.65,3,0.89,Medium
+S152,20,Female,Computer Science,3.1,5,66.7,0.83,Active,17,12,0.91,5,0.94,Medium
+S153,18,Other,Engineering,3.76,3,75.2,0.95,Leave,39,52,0.54,12,0.85,Low
+S154,20,Female,Arts,3.35,5,84.7,0.98,Leave,9,56,0.9,18,0.88,Low
+S155,22,Female,Engineering,3.09,6,98.8,0.9,Active,4,23,0.8,10,0.76,Low
+S156,19,Male,Business,3.66,6,89.1,0.63,Graduated,9,75,0.79,12,0.96,High
+S157,24,Other,Engineering,3.21,6,96.9,0.87,Graduated,20,38,0.73,7,0.91,Low
+S158,19,Other,Engineering,2.58,3,90.5,0.76,Active,23,13,0.64,6,0.92,Medium
+S159,18,Female,Engineering,2.41,6,83.7,0.79,Leave,37,35,0.73,12,0.84,High
+S160,21,Other,Engineering,2.3,3,67.7,0.62,Leave,2,21,0.73,0,0.65,High
+S161,24,Male,Arts,3.8,5,86.7,0.68,Leave,39,11,0.79,5,0.52,High
+S162,18,Male,Arts,3.42,6,84.9,0.92,Graduated,30,26,0.64,6,0.97,Low
+S163,25,Male,Computer Science,3.87,5,84.1,0.78,Leave,36,44,0.54,15,0.79,Medium
+S164,21,Other,Business,3.21,4,79.6,0.72,Graduated,1,19,0.57,14,0.65,High
+S165,19,Other,Engineering,2.95,5,81.1,0.75,Leave,1,52,0.85,19,0.57,Medium
+S166,18,Other,Computer Science,2.12,4,73.4,0.94,Active,38,30,0.51,1,0.91,High
+S167,25,Other,Computer Science,3.34,5,80.8,0.9,Active,33,24,0.93,15,0.92,Low
+S168,24,Other,Computer Science,3.16,3,67.9,0.71,Graduated,19,44,0.85,16,0.91,High
+S169,24,Male,Arts,3.98,5,92.2,0.65,Graduated,32,69,0.88,14,0.82,High
+S170,23,Female,Engineering,2.48,3,67.4,0.7,Active,3,53,0.92,2,0.68,High
+S171,25,Male,Engineering,3.06,3,63.4,0.97,Active,10,14,0.56,3,0.65,Low
+S172,22,Other,Business,3.3,6,77.4,0.83,Leave,4,82,0.91,11,0.5,Medium
+S173,20,Male,Engineering,3.29,3,86.3,0.81,Active,24,27,0.75,4,0.92,Medium
+S174,21,Other,Engineering,3.12,4,77.5,0.84,Graduated,36,30,0.94,16,0.54,Medium
+S175,25,Other,Computer Science,3.55,6,71.1,0.75,Active,33,81,0.94,5,0.82,Medium
+S176,23,Male,Business,2.41,6,82.3,0.92,Graduated,8,83,0.51,9,0.75,High
+S177,20,Other,Engineering,3.45,5,73.9,0.81,Graduated,5,60,0.69,17,0.76,Medium
+S178,20,Female,Arts,3.24,3,97.3,0.65,Leave,17,50,0.76,9,0.96,High
+S179,18,Other,Engineering,3.79,3,96.9,0.65,Leave,13,33,0.84,5,0.52,High
+S180,20,Female,Computer Science,3.69,4,80.1,0.81,Leave,18,33,0.64,5,0.89,Medium
+S181,22,Female,Arts,2.63,5,73.1,0.97,Leave,13,47,0.63,19,0.53,Medium
+S182,24,Other,Computer Science,2.55,5,89.5,0.72,Active,39,53,0.69,14,0.52,High
+S183,23,Male,Engineering,3.96,6,61.5,0.95,Leave,16,66,0.75,3,0.71,Low
+S184,20,Female,Arts,3.05,6,79.0,0.91,Active,34,68,0.98,15,0.53,Low
+S185,18,Male,Business,3.81,6,73.5,0.7,Leave,28,43,0.88,7,0.89,High
+S186,22,Female,Business,2.33,4,96.8,0.61,Leave,16,84,0.71,6,0.76,High
+S187,19,Other,Arts,3.29,4,60.5,0.64,Graduated,7,32,0.53,18,0.51,High
+S188,24,Other,Arts,3.62,6,82.1,0.89,Active,0,52,0.58,16,0.52,Low
+S189,24,Female,Computer Science,3.89,5,89.6,0.68,Graduated,35,49,0.73,12,0.81,High
+S190,23,Other,Arts,2.67,4,79.4,0.75,Leave,6,56,0.91,14,0.9,Medium
+S191,24,Female,Computer Science,3.45,5,63.4,0.8,Active,4,50,0.69,1,0.72,Medium
+S192,20,Other,Engineering,3.08,5,98.9,0.89,Leave,23,56,0.77,9,0.78,Low
+S193,18,Male,Computer Science,2.12,3,80.7,0.65,Graduated,27,29,0.95,12,0.9,High
+S194,24,Other,Arts,3.38,6,84.6,0.76,Active,16,86,0.96,17,0.81,Medium
+S195,24,Male,Arts,3.38,3,69.5,0.79,Graduated,36,74,0.61,10,0.61,Medium
+S196,19,Other,Engineering,3.86,6,79.3,0.82,Leave,19,77,0.52,12,0.81,Medium
+S197,19,Male,Arts,2.99,6,77.2,0.93,Leave,2,33,0.65,18,0.81,Medium
+S198,21,Other,Arts,2.46,5,63.0,0.67,Leave,36,45,0.85,4,0.87,High
+S199,22,Male,Business,2.09,6,64.2,0.92,Active,25,54,0.98,2,0.81,High
+S200,20,Female,Business,2.83,5,93.5,0.88,Graduated,14,11,0.54,18,0.98,Medium
+S201,24,Female,Engineering,2.6,5,69.6,0.82,Graduated,7,37,0.51,12,0.6,Medium
+S202,25,Male,Computer Science,3.52,6,67.8,0.88,Leave,12,35,0.94,4,0.98,Low
+S203,24,Other,Business,2.71,5,80.2,0.76,Graduated,2,32,0.87,11,0.77,Medium
+S204,18,Male,Computer Science,3.9,5,90.7,0.66,Active,0,88,1.0,13,0.84,High
+S205,21,Other,Arts,3.92,5,62.5,0.87,Leave,8,45,0.7,5,0.55,Low
+S206,22,Female,Business,3.24,4,83.1,0.81,Leave,30,15,0.71,8,0.69,Medium
+S207,25,Other,Engineering,3.86,5,64.8,0.86,Leave,25,44,0.59,16,0.88,Low
+S208,21,Female,Engineering,3.52,4,61.5,0.74,Active,16,47,0.56,7,0.85,High
+S209,23,Other,Engineering,3.09,4,62.1,0.96,Leave,33,44,0.79,12,0.52,Low
+S210,22,Other,Business,2.36,5,93.4,0.83,Leave,8,83,0.68,4,0.77,High
+S211,24,Other,Computer Science,2.92,5,64.7,0.63,Leave,12,62,0.54,16,0.54,High
+S212,24,Male,Arts,3.12,4,61.8,0.78,Leave,4,47,0.94,2,1.0,Medium
+S213,22,Male,Computer Science,3.73,4,77.5,0.9,Graduated,12,68,0.6,5,0.95,Low
+S214,24,Female,Computer Science,2.96,5,93.8,0.92,Leave,0,52,0.87,13,0.51,Medium
+S215,20,Female,Arts,3.8,5,70.5,0.8,Active,24,13,0.64,14,0.93,Medium
+S216,22,Male,Arts,3.35,6,76.9,0.96,Leave,3,14,0.91,13,0.96,Low
+S217,21,Female,Business,2.27,4,61.6,0.71,Leave,35,77,0.56,10,0.68,High
+S218,22,Male,Business,3.99,4,78.0,0.76,Graduated,9,54,0.88,10,0.86,Medium
+S219,25,Other,Business,3.05,6,83.1,0.96,Leave,27,89,0.55,8,0.72,Low
+S220,24,Female,Business,2.78,4,82.8,0.96,Graduated,5,34,0.72,5,0.83,Medium
+S221,20,Female,Business,3.32,3,73.3,0.87,Active,26,87,0.87,14,0.67,Low
+S222,20,Male,Arts,2.22,4,72.6,0.94,Graduated,11,20,0.59,11,0.66,High
+S223,23,Female,Computer Science,3.27,6,64.3,0.64,Leave,2,38,0.64,5,0.71,High
+S224,21,Female,Business,3.0,3,74.7,0.95,Active,32,43,0.93,0,0.57,Low
+S225,19,Other,Business,2.81,5,64.0,0.73,Leave,9,23,0.94,15,0.92,High
+S226,19,Female,Computer Science,3.91,6,90.7,0.67,Graduated,30,33,0.52,19,0.67,High
+S227,22,Other,Business,3.05,6,98.7,0.7,Active,14,68,0.58,14,0.7,High
+S228,23,Male,Computer Science,2.44,5,98.8,0.77,Active,6,48,0.56,1,0.95,High
+S229,18,Female,Computer Science,2.92,6,94.6,0.7,Graduated,35,35,0.59,16,0.75,High
+S230,22,Other,Arts,3.84,4,84.0,0.73,Graduated,13,52,0.99,2,0.77,High
+S231,23,Male,Engineering,2.35,5,88.0,0.65,Active,13,45,0.78,2,0.98,High
+S232,21,Female,Arts,2.43,6,71.4,0.72,Active,2,48,0.73,4,0.94,High
+S233,21,Male,Engineering,2.03,5,85.2,0.83,Graduated,2,70,0.99,16,0.58,High
+S234,21,Female,Engineering,2.03,5,78.2,0.78,Leave,21,25,0.78,16,0.74,High
+S235,21,Male,Engineering,3.66,5,79.3,0.74,Active,18,68,0.83,19,0.99,High
+S236,21,Male,Business,3.46,3,90.3,0.9,Graduated,34,15,0.67,5,0.69,Low
+S237,23,Other,Arts,2.71,6,71.3,0.96,Leave,11,65,0.69,0,0.69,Medium
+S238,23,Male,Engineering,3.4,3,72.7,0.9,Active,4,17,0.8,6,0.6,Low
+S239,20,Female,Computer Science,2.79,6,97.0,0.73,Active,9,36,0.53,14,0.56,High
+S240,25,Female,Business,3.91,4,62.2,0.9,Graduated,32,80,0.63,6,0.87,Low
+S241,19,Other,Arts,3.93,4,79.4,0.66,Leave,12,36,0.6,18,0.89,High
+S242,24,Female,Engineering,2.79,4,96.5,0.65,Active,34,55,0.51,19,0.98,High
+S243,21,Female,Computer Science,3.71,6,84.4,0.74,Leave,31,50,0.77,10,0.89,High
+S244,18,Female,Arts,3.55,5,81.9,0.92,Leave,10,88,0.78,13,0.62,Low
+S245,24,Male,Arts,2.62,5,70.0,0.7,Active,37,34,0.69,12,0.52,High
+S246,23,Male,Business,2.46,3,73.7,0.63,Leave,23,27,0.63,19,0.99,High
+S247,18,Female,Arts,2.92,3,94.1,0.65,Active,34,21,0.83,8,0.67,High
+S248,18,Other,Business,3.56,4,82.4,0.94,Leave,18,60,0.57,8,0.66,Low
+S249,18,Male,Engineering,3.92,3,80.6,0.85,Active,5,48,0.76,15,0.95,Low
+S250,20,Other,Business,3.53,6,64.0,0.7,Graduated,39,19,0.88,11,0.79,High
+S251,23,Female,Computer Science,3.71,6,60.6,0.82,Active,34,83,0.58,9,0.61,Medium
+S252,18,Female,Business,3.21,3,98.5,0.81,Active,3,86,0.88,5,0.94,Medium
+S253,21,Male,Computer Science,3.67,3,75.1,0.86,Active,32,63,0.88,17,1.0,Low
+S254,22,Female,Business,3.57,3,84.1,0.69,Leave,12,38,0.53,1,0.54,High
+S255,18,Male,Arts,2.75,3,63.2,0.95,Graduated,35,50,0.51,19,0.93,Medium
+S256,20,Female,Engineering,3.1,4,87.3,0.72,Leave,18,18,0.99,8,0.7,High
+S257,24,Female,Computer Science,3.61,4,97.3,0.88,Leave,11,72,0.6,18,0.76,Low
+S258,23,Male,Business,2.09,3,83.0,0.61,Active,10,86,0.91,5,0.96,High
+S259,25,Male,Business,3.62,6,65.0,0.75,Leave,5,46,0.78,1,0.99,Medium
+S260,20,Male,Business,2.36,4,83.3,0.74,Active,11,23,0.63,14,0.63,High
+S261,18,Female,Arts,3.03,6,90.7,0.82,Graduated,26,82,0.56,16,0.61,Medium
+S262,23,Female,Arts,3.62,5,76.3,0.63,Leave,24,81,0.75,15,0.54,High
+S263,22,Other,Computer Science,2.51,6,95.2,0.92,Leave,2,48,0.7,7,0.78,Medium
+S264,18,Male,Computer Science,2.49,3,85.9,0.69,Leave,2,49,0.85,9,0.51,High
+S265,20,Female,Arts,2.81,5,96.0,0.87,Active,19,63,0.95,9,0.71,Medium
+S266,19,Female,Computer Science,3.79,4,84.9,0.92,Active,27,12,0.9,17,0.54,Low
+S267,21,Male,Engineering,2.0,4,65.3,0.82,Leave,22,64,0.64,9,0.7,High
+S268,25,Other,Engineering,3.8,5,72.4,0.9,Leave,2,42,0.94,8,0.52,Low
+S269,24,Male,Arts,2.31,6,68.1,0.86,Graduated,23,80,0.92,18,0.92,High
+S270,20,Other,Computer Science,3.98,4,96.4,0.74,Graduated,39,28,0.96,0,0.6,High
+S271,23,Female,Business,3.91,3,90.4,0.92,Graduated,5,43,0.73,3,0.66,Low
+S272,25,Other,Engineering,2.99,5,87.1,0.72,Graduated,19,87,0.88,2,0.94,High
+S273,25,Female,Arts,3.03,3,72.0,0.83,Graduated,10,59,0.8,9,0.87,Medium
+S274,25,Male,Computer Science,2.96,5,67.4,0.9,Active,31,56,0.66,11,0.61,Medium
+S275,18,Male,Arts,3.27,4,90.3,0.75,Graduated,26,55,1.0,17,0.54,Medium
+S276,21,Male,Business,2.18,6,79.0,0.72,Graduated,20,65,0.52,19,0.86,High
+S277,18,Other,Engineering,2.07,5,69.0,0.78,Leave,12,66,0.58,5,0.7,High
+S278,23,Female,Arts,2.12,5,84.7,0.93,Active,21,60,0.95,1,0.88,High
+S279,18,Male,Arts,2.89,3,61.6,0.97,Graduated,34,63,0.53,9,0.72,Medium
+S280,19,Male,Arts,2.55,4,73.0,0.82,Graduated,21,37,0.94,1,0.67,Medium
+S281,21,Female,Business,3.24,3,78.7,0.86,Graduated,27,28,0.86,8,0.73,Low
+S282,21,Male,Arts,3.98,4,65.9,0.96,Leave,20,36,0.52,9,0.87,Low
+S283,23,Female,Business,2.77,3,99.4,0.64,Leave,17,57,0.71,1,0.95,High
+S284,24,Female,Business,3.15,5,68.4,0.69,Leave,30,28,0.88,7,0.52,High
+S285,19,Female,Business,2.83,3,65.2,0.88,Graduated,36,60,0.79,16,0.76,Medium
+S286,20,Female,Engineering,3.69,6,68.1,0.93,Leave,20,16,0.97,16,0.52,Low
+S287,18,Female,Engineering,3.8,4,90.8,0.94,Graduated,13,38,0.93,3,0.73,Low
+S288,22,Other,Arts,3.75,4,77.0,0.77,Active,24,52,0.67,17,0.94,Medium
+S289,18,Male,Arts,3.95,5,82.6,0.64,Graduated,26,78,0.54,11,0.68,High
+S290,25,Other,Engineering,2.06,4,60.8,0.78,Leave,39,67,0.97,16,0.97,High
+S291,18,Male,Computer Science,3.68,6,61.4,0.69,Active,22,17,0.76,8,0.82,High
+S292,20,Other,Engineering,3.5,3,77.8,0.72,Graduated,30,51,0.54,18,0.97,High
+S293,18,Female,Business,2.46,5,92.7,0.91,Active,28,85,0.91,13,0.88,High
+S294,19,Male,Engineering,3.91,6,95.4,0.63,Active,29,51,0.93,13,0.55,High
+S295,19,Male,Business,2.3,4,63.5,0.93,Active,25,22,0.82,16,0.62,High
+S296,21,Other,Arts,3.36,4,81.5,0.77,Graduated,19,35,0.72,1,0.7,Medium
+S297,23,Other,Computer Science,2.45,6,96.5,0.84,Leave,37,27,0.83,7,0.59,High
+S298,24,Male,Arts,2.86,3,75.5,0.64,Graduated,18,51,0.85,4,0.75,High
+S299,22,Other,Business,3.44,3,93.2,0.73,Leave,26,60,0.95,6,0.74,High
+S300,25,Other,Business,3.13,5,65.3,0.64,Graduated,24,25,0.98,15,0.98,High
+S301,18,Other,Business,2.86,4,97.4,0.98,Graduated,39,12,0.76,15,0.72,Medium
+S302,18,Female,Computer Science,2.65,6,90.1,0.92,Graduated,37,88,0.9,16,0.89,Medium
+S303,20,Female,Engineering,3.68,3,97.7,0.78,Leave,22,54,0.98,6,0.97,Medium
+S304,23,Other,Arts,2.29,5,87.1,0.69,Graduated,28,31,0.58,19,0.94,High
+S305,19,Other,Arts,2.86,4,74.5,0.97,Active,14,32,0.51,7,0.6,Medium
+S306,22,Female,Engineering,3.81,4,97.5,0.74,Graduated,2,68,0.93,7,0.75,High
+S307,21,Female,Arts,3.69,5,71.0,0.66,Active,9,71,0.6,10,0.67,High
+S308,19,Male,Computer Science,2.8,5,73.3,0.83,Leave,14,77,0.52,14,0.7,Medium
+S309,25,Male,Arts,3.53,3,88.0,0.98,Leave,15,63,0.58,17,0.68,Low
+S310,23,Female,Business,3.65,6,90.6,0.6,Graduated,16,66,0.69,5,0.91,High
+S311,25,Other,Engineering,3.78,4,97.2,0.7,Graduated,18,32,0.61,11,0.73,High
+S312,24,Other,Computer Science,3.09,6,68.2,0.98,Graduated,10,69,0.65,14,0.76,Low
+S313,21,Other,Engineering,2.41,4,91.9,0.67,Active,4,82,0.99,5,0.99,High
+S314,24,Other,Computer Science,2.51,4,89.5,0.65,Leave,4,64,0.85,17,0.53,High
+S315,20,Male,Business,2.59,6,62.6,0.83,Active,13,89,0.86,19,0.74,Medium
+S316,25,Female,Engineering,3.19,5,75.5,0.94,Active,25,72,0.55,8,0.89,Low
+S317,20,Other,Arts,2.07,3,71.3,0.79,Graduated,7,65,0.87,7,0.58,High
+S318,18,Male,Computer Science,3.27,4,72.2,1.0,Graduated,4,64,0.87,13,0.81,Low
+S319,24,Other,Engineering,2.73,5,99.3,0.87,Active,6,34,0.83,18,0.62,Medium
+S320,23,Female,Arts,2.59,4,85.7,0.63,Active,15,35,0.61,18,0.93,High
+S321,25,Male,Engineering,3.76,3,88.7,1.0,Graduated,13,58,0.71,7,0.66,Low
+S322,22,Female,Engineering,2.92,4,99.1,0.76,Graduated,36,72,0.92,1,0.66,Medium
+S323,21,Female,Engineering,2.19,3,75.1,0.71,Active,3,54,0.84,3,0.8,High
+S324,19,Male,Computer Science,3.65,3,92.1,0.82,Graduated,35,82,0.87,5,0.59,Medium
+S325,23,Male,Arts,2.1,4,77.4,0.72,Graduated,16,88,0.79,2,0.64,High
+S326,23,Male,Business,3.45,4,94.8,0.63,Active,35,48,0.72,2,0.71,High
+S327,20,Male,Computer Science,3.55,3,67.2,0.6,Active,5,74,0.88,18,0.68,High
+S328,24,Male,Computer Science,2.71,5,97.9,0.78,Leave,15,78,0.53,10,0.76,Medium
+S329,25,Male,Computer Science,3.65,6,68.8,0.93,Active,28,65,0.84,9,0.8,Low
+S330,25,Male,Business,3.03,3,73.0,0.83,Graduated,35,18,1.0,11,0.78,Medium
+S331,18,Other,Arts,2.93,4,90.2,1.0,Active,37,79,0.89,13,0.83,Medium
+S332,18,Female,Arts,2.09,4,75.8,0.71,Active,36,37,0.65,17,0.65,High
+S333,21,Male,Arts,2.58,5,84.3,0.71,Active,9,54,0.64,8,0.56,High
+S334,20,Other,Engineering,3.86,6,77.8,0.66,Leave,35,35,0.83,14,0.88,High
+S335,23,Other,Engineering,2.78,3,89.7,0.67,Leave,28,37,0.95,2,0.93,High
+S336,25,Other,Engineering,3.09,3,69.1,0.71,Graduated,13,49,0.79,10,0.63,High
+S337,22,Female,Business,3.06,6,62.3,0.92,Leave,3,24,0.76,9,0.7,Low
+S338,20,Male,Engineering,3.18,3,72.0,0.96,Active,35,15,0.58,17,0.75,Low
+S339,21,Other,Business,2.12,6,79.0,0.99,Leave,12,36,0.86,3,0.77,High
+S340,21,Female,Arts,2.72,4,66.7,0.69,Active,17,47,0.85,12,0.83,High
+S341,20,Female,Engineering,3.45,6,74.2,0.95,Leave,32,77,0.98,5,0.52,Low
+S342,21,Female,Engineering,2.4,3,76.0,0.73,Leave,20,84,0.65,12,0.86,High
+S343,20,Other,Computer Science,2.41,6,62.3,0.65,Leave,15,73,0.88,19,0.53,High
+S344,19,Male,Business,2.02,5,83.3,0.95,Active,14,39,0.72,4,0.73,High
+S345,20,Other,Arts,2.87,4,95.4,0.85,Leave,4,12,0.78,19,0.91,Medium
+S346,24,Other,Computer Science,3.77,4,66.1,0.67,Active,5,71,0.91,13,0.73,High
+S347,20,Male,Computer Science,2.1,6,83.9,0.77,Active,37,21,0.61,12,0.57,High
+S348,21,Male,Arts,2.38,3,86.6,0.71,Graduated,2,39,0.67,13,0.99,High
+S349,25,Male,Computer Science,2.62,5,76.8,0.89,Leave,11,47,0.89,7,0.94,Medium
+S350,24,Female,Business,3.46,4,88.0,0.78,Graduated,35,69,0.79,15,0.89,Medium
+S351,21,Male,Business,3.28,4,76.4,1.0,Graduated,32,47,0.55,12,0.71,Low
+S352,18,Other,Engineering,2.83,3,80.2,0.62,Active,35,24,0.72,14,0.59,High
+S353,18,Male,Computer Science,3.52,3,60.3,0.74,Leave,32,27,0.79,18,0.97,High
+S354,25,Other,Engineering,3.22,5,87.7,0.79,Active,30,61,0.95,0,0.77,Medium
+S355,25,Female,Computer Science,3.79,6,86.5,0.8,Active,20,38,0.59,1,0.93,Medium
+S356,24,Other,Business,3.64,3,61.5,0.73,Leave,26,69,0.9,17,0.67,High
+S357,19,Other,Business,2.51,6,74.7,0.89,Active,26,30,0.57,18,0.67,Medium
+S358,25,Male,Business,2.54,5,99.2,0.95,Leave,7,26,0.62,7,0.99,Medium
+S359,18,Male,Computer Science,2.25,6,76.8,0.98,Leave,36,27,0.62,2,0.76,High
+S360,20,Other,Business,2.67,4,80.1,0.92,Active,31,66,0.94,13,0.57,Medium
+S361,21,Male,Computer Science,4.0,6,96.4,0.94,Active,25,46,0.6,8,0.61,Low
+S362,18,Female,Engineering,2.81,5,88.7,0.82,Graduated,1,69,0.89,7,0.74,Medium
+S363,18,Female,Computer Science,2.44,5,83.3,0.93,Active,11,47,0.73,16,0.52,High
+S364,19,Male,Engineering,3.52,5,91.9,0.72,Leave,21,21,1.0,15,0.73,High
+S365,24,Female,Computer Science,3.08,6,94.6,0.76,Graduated,16,84,0.92,9,0.71,Medium
+S366,24,Male,Engineering,2.3,4,78.3,0.73,Leave,6,82,0.87,9,0.89,High
+S367,23,Other,Business,2.76,3,79.0,0.79,Graduated,3,10,0.94,5,0.68,Medium
+S368,19,Other,Engineering,2.83,4,75.4,0.71,Active,36,67,0.82,16,0.99,High
+S369,20,Female,Business,3.51,6,98.7,0.98,Active,37,12,0.92,15,0.59,Low
+S370,24,Male,Business,2.04,6,87.9,0.73,Active,31,72,0.63,14,0.8,High
+S371,21,Male,Engineering,2.54,3,63.3,0.64,Leave,10,30,0.55,13,0.54,High
+S372,25,Female,Computer Science,3.04,6,94.5,0.81,Graduated,0,32,0.81,3,0.87,Medium
+S373,19,Other,Computer Science,2.54,5,79.2,0.62,Leave,24,18,0.72,3,1.0,High
+S374,25,Female,Arts,3.26,5,62.8,0.64,Graduated,23,64,0.71,1,0.91,High
+S375,18,Other,Computer Science,2.96,5,82.0,0.69,Active,16,28,0.76,10,0.78,High
+S376,21,Male,Arts,2.72,5,76.7,0.79,Leave,7,71,0.68,3,0.74,Medium
+S377,21,Other,Computer Science,3.9,5,95.1,0.77,Active,26,48,0.81,15,0.92,Medium
+S378,18,Female,Computer Science,3.26,6,68.2,0.92,Leave,17,85,0.52,3,0.97,Low
+S379,19,Male,Business,2.26,3,93.1,0.9,Active,26,36,0.98,0,0.99,High
+S380,18,Female,Arts,3.12,3,82.3,0.77,Leave,21,55,0.96,18,0.7,Medium
+S381,25,Female,Computer Science,3.56,5,62.2,0.73,Leave,15,43,0.97,1,1.0,High
+S382,23,Other,Arts,3.42,6,98.9,0.73,Graduated,1,42,0.68,8,0.58,High
+S383,21,Female,Business,2.34,4,80.5,0.91,Active,4,59,0.77,12,0.63,High
+S384,22,Other,Business,3.94,4,71.6,0.62,Graduated,17,29,0.98,17,0.54,High
+S385,22,Male,Arts,2.9,6,78.8,0.61,Graduated,2,49,0.95,15,0.64,High
+S386,25,Other,Business,2.32,5,94.3,0.92,Active,26,67,0.9,15,0.88,High
+S387,20,Male,Engineering,2.36,3,72.2,0.79,Leave,16,40,0.7,9,0.93,High
+S388,24,Other,Engineering,2.2,6,67.7,0.65,Graduated,15,47,0.78,8,0.89,High
+S389,18,Female,Business,3.61,4,65.2,0.69,Active,5,54,0.9,10,0.82,High
+S390,18,Other,Engineering,2.24,4,71.9,0.97,Leave,6,50,0.64,3,0.76,High
+S391,20,Other,Computer Science,2.25,4,91.2,0.94,Graduated,13,18,0.81,9,0.85,High
+S392,20,Male,Arts,3.7,5,78.9,0.88,Graduated,37,18,0.91,2,0.7,Low
+S393,25,Female,Computer Science,2.69,4,69.1,0.79,Graduated,39,72,0.85,5,0.92,Medium
+S394,25,Other,Arts,2.06,6,66.6,0.81,Leave,14,88,0.74,2,0.84,High
+S395,20,Female,Business,2.1,6,73.3,0.99,Graduated,32,86,0.79,8,0.85,High
+S396,21,Other,Computer Science,2.28,4,97.6,0.99,Leave,26,31,0.99,2,0.77,High
+S397,25,Other,Business,2.43,6,73.7,0.69,Graduated,28,25,0.8,17,0.94,High
+S398,23,Female,Business,3.33,4,99.5,0.92,Active,36,41,0.89,7,0.63,Low
+S399,25,Other,Arts,2.31,4,79.4,0.68,Graduated,4,75,0.86,7,0.69,High
+S400,18,Female,Arts,2.24,3,67.2,0.69,Active,28,23,0.85,14,0.89,High
+S401,25,Other,Arts,3.53,5,95.6,0.87,Active,31,47,0.86,12,0.75,Low
+S402,21,Male,Computer Science,3.34,5,78.4,0.76,Active,5,17,0.73,6,0.94,Medium
+S403,20,Female,Engineering,2.87,3,88.4,0.97,Leave,1,30,0.74,18,0.67,Medium
+S404,18,Other,Arts,3.1,3,99.3,0.64,Active,5,65,0.73,7,0.68,High
+S405,25,Other,Arts,2.62,5,62.0,0.8,Graduated,3,55,0.52,9,0.94,Medium
+S406,21,Male,Computer Science,2.97,4,63.9,0.97,Leave,28,52,0.62,16,0.73,Medium
+S407,23,Female,Arts,3.01,4,88.8,0.96,Active,24,55,0.58,0,0.76,Low
+S408,25,Other,Computer Science,2.77,5,71.3,0.66,Leave,8,57,0.94,12,0.67,High
+S409,21,Male,Business,3.81,4,67.4,0.75,Leave,2,79,0.64,12,0.64,Medium
+S410,23,Other,Arts,2.03,3,61.6,0.85,Leave,25,40,0.57,15,0.83,High
+S411,20,Female,Arts,3.56,4,60.9,0.66,Graduated,26,42,0.56,8,0.56,High
+S412,25,Other,Business,2.25,4,91.0,0.99,Active,35,53,0.85,9,0.94,High
+S413,23,Other,Business,3.6,6,65.4,0.97,Leave,31,80,0.5,5,0.89,Low
+S414,18,Other,Business,3.23,6,78.7,0.67,Leave,0,17,0.74,4,0.6,High
+S415,20,Other,Arts,3.69,6,84.2,0.65,Leave,15,82,0.56,1,0.85,High
+S416,18,Male,Engineering,2.2,4,77.1,0.63,Active,10,11,0.92,10,0.8,High
+S417,22,Male,Engineering,3.12,5,61.1,0.96,Leave,25,26,0.98,8,0.59,Low
+S418,19,Female,Engineering,3.0,3,91.3,0.68,Leave,39,61,0.98,5,0.64,High
+S419,25,Male,Arts,3.41,4,60.4,0.77,Graduated,0,54,0.72,7,0.7,Medium
+S420,23,Male,Business,3.07,5,90.5,0.78,Active,25,46,0.82,8,0.85,Medium
+S421,19,Female,Arts,3.08,4,95.7,0.84,Graduated,27,51,0.8,8,0.82,Medium
+S422,19,Male,Business,2.86,3,77.3,0.63,Active,8,53,0.68,7,0.77,High
+S423,23,Male,Arts,2.62,4,81.4,0.69,Active,21,47,0.72,11,0.88,High
+S424,20,Female,Arts,2.96,3,79.1,0.97,Active,7,15,0.53,7,0.88,Medium
+S425,25,Female,Business,2.24,4,75.6,0.96,Graduated,26,77,0.9,2,0.81,High
+S426,22,Female,Engineering,3.92,3,95.5,0.91,Graduated,38,60,0.62,12,0.89,Low
+S427,18,Other,Business,3.43,4,95.8,0.61,Graduated,18,44,0.73,18,0.67,High
+S428,21,Other,Computer Science,3.9,3,73.4,0.73,Graduated,24,67,0.74,1,0.94,High
+S429,18,Female,Computer Science,2.45,6,84.6,0.85,Leave,37,66,0.78,16,0.81,High
+S430,21,Female,Business,3.76,4,97.1,0.71,Leave,20,82,0.91,15,0.91,High
+S431,18,Female,Arts,3.62,4,98.5,0.96,Leave,23,15,0.85,3,0.77,Low
+S432,23,Other,Computer Science,3.35,5,80.4,0.85,Active,23,22,0.83,17,0.61,Low
+S433,22,Other,Computer Science,3.25,5,78.1,0.63,Leave,18,68,0.76,13,0.77,High
+S434,25,Male,Arts,2.63,3,71.1,0.96,Active,1,39,0.55,1,0.69,Medium
+S435,21,Male,Arts,3.63,4,98.4,0.98,Graduated,13,11,0.7,12,0.85,Low
+S436,25,Female,Engineering,3.0,3,65.7,0.63,Active,31,67,0.98,19,0.74,High
+S437,25,Other,Arts,2.14,6,83.2,0.81,Active,31,45,1.0,16,0.92,High
+S438,25,Other,Business,2.63,5,71.3,0.72,Leave,27,81,0.87,14,0.84,High
+S439,24,Other,Business,3.87,3,71.2,0.76,Graduated,38,54,0.61,19,0.84,Medium
+S440,20,Female,Engineering,3.7,3,76.2,0.67,Graduated,39,18,0.55,4,0.61,High
+S441,18,Male,Computer Science,3.96,5,100.0,0.83,Leave,39,74,0.71,6,0.99,Medium
+S442,25,Female,Computer Science,3.26,4,62.2,0.98,Graduated,12,86,0.93,17,0.92,Low
+S443,18,Male,Arts,2.5,3,83.1,0.8,Graduated,11,59,0.86,10,0.89,Medium
+S444,25,Male,Business,2.33,5,63.3,0.63,Graduated,7,88,0.94,17,0.67,High
+S445,21,Female,Computer Science,2.37,4,66.2,0.85,Leave,14,41,0.81,4,0.77,High
+S446,20,Male,Engineering,2.04,6,77.6,0.74,Graduated,25,52,0.57,12,0.57,High
+S447,20,Male,Engineering,2.78,5,80.4,0.94,Active,11,87,0.56,17,0.77,Medium
+S448,23,Other,Business,2.38,3,70.4,0.77,Active,26,63,0.52,1,0.57,High
+S449,24,Male,Engineering,2.82,6,72.7,0.68,Graduated,17,56,0.78,19,0.78,High
+S450,23,Female,Engineering,3.87,4,63.5,0.68,Leave,35,23,0.62,3,0.82,High
+S451,23,Female,Business,2.86,4,72.1,0.91,Leave,26,57,0.87,12,0.7,Medium
+S452,23,Male,Arts,3.76,5,98.7,0.71,Leave,8,64,0.84,15,0.75,High
+S453,23,Other,Arts,3.21,5,97.8,0.91,Graduated,38,38,0.66,5,0.94,Low
+S454,23,Other,Engineering,2.49,5,73.4,0.68,Graduated,0,56,0.59,7,0.55,High
+S455,22,Male,Arts,2.71,4,82.8,0.73,Active,6,72,0.55,15,0.9,High
+S456,20,Male,Arts,2.17,6,96.4,0.79,Leave,25,28,0.87,12,0.59,High
+S457,23,Female,Engineering,2.67,4,60.2,0.98,Active,6,18,0.73,3,0.52,Medium
+S458,25,Male,Arts,3.36,3,92.4,0.97,Active,6,46,0.66,1,0.59,Low
+S459,20,Other,Engineering,2.14,4,97.9,0.68,Leave,7,61,0.93,8,0.88,High
+S460,20,Male,Computer Science,2.41,3,63.7,0.74,Graduated,15,66,0.8,17,0.7,High
+S461,19,Female,Business,2.76,6,66.5,0.66,Graduated,2,37,0.76,16,0.94,High
+S462,22,Female,Business,3.96,5,98.4,0.8,Active,9,45,0.87,7,0.76,Medium
+S463,23,Female,Arts,3.57,5,81.5,0.78,Active,6,73,0.91,14,0.51,Medium
+S464,18,Female,Arts,3.47,4,60.6,0.96,Active,20,27,0.84,8,0.86,Low
+S465,21,Female,Arts,2.23,5,70.3,0.97,Active,36,44,0.72,16,0.56,High
+S466,24,Male,Business,3.56,6,78.0,0.75,Leave,30,77,0.69,1,0.89,Medium
+S467,25,Male,Computer Science,3.57,5,87.7,0.8,Active,22,87,0.89,5,0.58,Medium
+S468,18,Male,Computer Science,3.2,4,89.3,0.96,Active,26,48,0.76,4,0.67,Low
+S469,22,Male,Business,3.98,6,99.8,0.92,Graduated,21,17,0.85,16,0.88,Low
+S470,21,Female,Computer Science,2.65,3,71.5,0.6,Graduated,38,89,0.95,1,0.98,High
+S471,22,Other,Business,3.88,4,81.5,0.73,Graduated,26,24,0.96,17,0.69,High
+S472,25,Male,Computer Science,3.83,3,81.3,0.77,Leave,3,16,0.64,9,0.91,Medium
+S473,20,Other,Engineering,2.02,6,76.2,0.69,Leave,23,26,0.59,9,0.6,High
+S474,21,Male,Engineering,2.9,4,66.8,0.68,Graduated,22,73,0.63,5,0.9,High
+S475,20,Male,Business,3.95,4,99.1,0.62,Graduated,18,21,0.88,11,0.83,High
+S476,25,Other,Computer Science,2.21,6,94.1,0.86,Active,2,65,0.69,16,0.6,High
+S477,18,Female,Arts,3.1,5,79.9,0.71,Active,26,55,0.59,12,0.65,High
+S478,25,Male,Computer Science,3.96,4,84.1,0.62,Leave,2,56,0.55,19,0.57,High
+S479,18,Male,Engineering,3.11,4,69.1,0.69,Leave,27,88,0.66,15,0.69,High
+S480,21,Male,Engineering,2.38,3,81.8,0.92,Active,16,25,0.57,9,0.6,High
+S481,21,Other,Computer Science,3.16,5,87.8,0.94,Graduated,30,78,0.58,1,0.82,Low
+S482,23,Female,Computer Science,2.41,3,80.6,0.79,Active,9,11,0.84,1,1.0,High
+S483,22,Other,Arts,3.04,3,99.6,0.77,Leave,21,63,0.51,6,0.51,Medium
+S484,23,Other,Arts,2.15,5,84.5,0.99,Leave,29,36,0.56,5,0.77,High
+S485,22,Female,Computer Science,3.21,5,74.8,0.68,Active,20,40,0.92,0,0.79,High
+S486,23,Other,Computer Science,3.03,6,90.9,0.69,Active,35,50,0.92,11,0.96,High
+S487,20,Female,Computer Science,3.48,5,66.8,0.72,Active,22,45,0.66,12,0.75,High
+S488,21,Male,Computer Science,3.26,4,75.4,0.67,Leave,37,56,0.54,11,0.77,High
+S489,18,Female,Business,3.1,5,73.9,0.75,Graduated,11,52,0.85,18,0.74,Medium
+S490,22,Male,Computer Science,3.38,6,77.3,0.96,Active,24,74,0.68,8,0.63,Low
+S491,25,Other,Arts,2.29,6,91.3,0.85,Leave,19,59,0.52,9,0.53,High
+S492,22,Other,Engineering,3.19,6,79.4,0.76,Leave,6,10,0.58,16,0.7,Medium
+S493,18,Male,Business,2.34,5,91.8,0.97,Leave,28,81,0.57,17,0.53,High
+S494,23,Other,Computer Science,3.85,5,83.1,0.62,Active,28,66,0.79,7,0.78,High
+S495,22,Female,Engineering,2.14,3,73.7,0.68,Active,12,25,0.95,6,0.65,High
+S496,24,Male,Business,2.86,3,92.4,0.83,Graduated,2,37,0.9,8,0.77,Medium
+S497,20,Other,Engineering,3.39,4,69.5,0.85,Leave,1,31,0.77,9,0.57,Low
+S498,21,Male,Computer Science,2.92,3,69.0,0.62,Active,15,50,0.71,11,0.97,High
+S499,18,Female,Computer Science,2.18,4,80.2,0.76,Leave,29,85,0.81,14,0.95,High
+S500,21,Female,Arts,3.11,6,70.4,0.86,Leave,37,28,0.72,14,0.59,Low
+S501,24,Other,Computer Science,3.28,3,60.4,0.88,Graduated,5,59,0.62,3,0.67,Low
+S502,22,Female,Computer Science,3.41,5,85.9,0.86,Active,6,68,0.84,3,0.81,Low
+S503,22,Male,Business,2.75,3,80.4,0.73,Active,4,78,0.94,0,0.55,High
+S504,25,Female,Arts,3.13,4,77.8,0.64,Leave,6,43,0.69,11,0.68,High
+S505,24,Male,Business,2.9,3,98.7,0.77,Leave,33,48,0.92,1,0.63,Medium
+S506,18,Male,Engineering,3.34,6,82.8,0.65,Graduated,31,83,0.72,14,0.96,High
+S507,25,Female,Computer Science,3.17,5,94.5,0.98,Graduated,12,16,0.7,16,0.93,Low
+S508,20,Other,Engineering,3.05,4,65.6,0.79,Graduated,29,61,0.51,6,0.79,Medium
+S509,25,Female,Business,2.5,5,82.8,0.73,Graduated,24,69,0.85,5,0.76,High
+S510,19,Male,Computer Science,2.0,5,94.7,0.91,Graduated,20,61,0.9,11,0.97,High
+S511,18,Male,Computer Science,2.35,4,83.3,0.8,Graduated,20,88,0.83,18,0.97,High
+S512,19,Female,Business,2.23,5,88.7,0.72,Leave,27,33,0.58,0,0.98,High
+S513,24,Other,Business,2.9,5,74.9,0.92,Graduated,19,35,0.55,13,0.56,Medium
+S514,23,Other,Business,3.22,3,63.7,0.95,Leave,33,19,0.79,3,0.58,Low
+S515,19,Male,Business,2.43,5,78.3,0.87,Leave,4,26,0.7,4,0.84,High
+S516,20,Male,Business,3.88,5,75.8,0.62,Active,17,87,0.71,0,0.77,High
+S517,25,Other,Computer Science,2.01,5,94.7,0.83,Leave,38,11,0.98,0,0.51,High
+S518,23,Female,Business,3.54,5,69.8,0.91,Leave,10,86,0.86,5,0.53,Low
+S519,25,Male,Computer Science,3.25,4,98.7,0.65,Graduated,16,36,0.71,4,0.94,High
+S520,19,Male,Computer Science,2.75,6,98.3,0.69,Leave,21,82,0.51,1,0.93,High
+S521,25,Other,Business,2.1,3,69.9,0.95,Graduated,36,80,0.52,4,0.68,High
+S522,24,Female,Business,3.25,5,73.9,0.61,Graduated,19,57,0.84,8,0.95,High
+S523,23,Other,Arts,2.77,5,95.8,0.9,Graduated,5,83,0.92,18,0.8,Medium
+S524,24,Female,Computer Science,3.87,4,98.7,0.79,Active,33,18,0.85,14,0.9,Medium
+S525,19,Female,Business,3.08,6,77.7,0.78,Graduated,13,32,0.7,12,0.71,Medium
+S526,24,Female,Business,3.88,5,72.8,0.6,Leave,22,80,0.52,11,0.56,High
+S527,20,Male,Business,2.44,4,81.0,0.93,Graduated,19,82,0.98,4,0.72,High
+S528,19,Other,Arts,3.45,3,87.5,0.74,Graduated,12,36,0.99,1,0.73,High
+S529,19,Other,Arts,3.23,3,70.9,0.82,Graduated,31,80,0.77,3,0.78,Medium
+S530,19,Female,Engineering,3.48,5,89.5,0.87,Active,25,52,0.54,17,0.55,Low
+S531,18,Male,Computer Science,2.43,5,62.1,0.88,Leave,13,16,0.77,9,1.0,High
+S532,25,Male,Engineering,3.33,6,62.0,0.98,Active,35,72,0.95,12,0.62,Low
+S533,18,Other,Business,3.0,6,75.5,0.81,Leave,7,53,0.84,11,0.6,Medium
+S534,18,Male,Arts,3.49,5,74.1,0.76,Active,39,48,0.86,1,0.76,Medium
+S535,20,Male,Arts,2.65,4,72.6,0.98,Leave,21,49,0.54,14,0.77,Medium
+S536,23,Female,Engineering,3.78,6,79.6,0.86,Active,21,16,0.55,13,0.72,Low
+S537,25,Male,Arts,2.17,5,72.8,0.72,Graduated,15,79,0.56,9,0.89,High
+S538,24,Female,Business,3.61,6,67.7,0.65,Active,26,34,0.95,7,0.76,High
+S539,22,Other,Arts,3.72,5,72.4,0.94,Active,9,68,0.76,14,0.8,Low
+S540,19,Male,Engineering,3.63,3,99.0,0.74,Graduated,24,22,0.9,12,0.86,High
+S541,24,Other,Business,3.03,5,76.4,0.86,Graduated,30,71,0.56,7,0.51,Low
+S542,19,Other,Engineering,2.88,3,77.8,0.79,Leave,20,17,0.96,13,0.79,Medium
+S543,20,Male,Arts,3.99,6,83.1,0.68,Leave,26,54,0.91,0,0.94,High
+S544,19,Male,Engineering,2.46,5,99.3,0.84,Leave,16,27,0.61,12,0.51,High
+S545,18,Other,Engineering,3.09,6,69.7,0.62,Active,32,69,0.94,7,0.7,High
+S546,25,Male,Computer Science,3.34,3,87.3,0.77,Leave,30,69,0.63,17,0.96,Medium
+S547,22,Female,Arts,3.4,5,88.6,0.82,Active,25,11,0.6,8,0.68,Medium
+S548,21,Female,Arts,2.41,6,84.3,0.77,Active,20,75,0.63,12,0.73,High
+S549,19,Male,Engineering,3.31,3,63.5,0.9,Leave,35,23,0.95,2,0.99,Low
+S550,24,Other,Computer Science,3.64,6,87.1,0.93,Leave,0,57,0.96,17,0.6,Low
+S551,18,Male,Arts,2.1,4,62.6,0.91,Active,3,65,0.66,9,0.53,High
+S552,21,Male,Business,3.82,3,83.8,0.62,Graduated,3,21,0.85,4,0.93,High
+S553,22,Other,Engineering,2.06,3,89.6,0.68,Graduated,25,64,0.84,5,0.93,High
+S554,21,Other,Arts,2.71,3,68.4,0.81,Active,3,37,0.9,7,0.74,Medium
+S555,18,Female,Business,2.03,5,93.7,0.97,Leave,8,13,0.65,6,0.76,High
+S556,25,Other,Arts,2.15,5,61.2,0.93,Active,29,45,0.76,17,0.92,High
+S557,25,Female,Business,3.82,5,93.8,0.94,Active,3,59,0.83,13,0.87,Low
+S558,23,Other,Engineering,2.71,4,78.4,0.72,Leave,4,12,0.51,14,0.63,High
+S559,25,Male,Arts,2.85,4,68.7,0.77,Graduated,22,10,0.69,9,0.51,Medium
+S560,23,Female,Arts,2.43,3,65.4,0.79,Active,15,26,0.85,11,0.74,High
+S561,21,Female,Computer Science,3.19,4,98.1,0.66,Graduated,21,80,0.63,6,0.93,High
+S562,20,Female,Engineering,3.19,6,62.9,0.61,Graduated,36,71,0.98,6,0.95,High
+S563,24,Male,Business,2.74,3,68.0,0.98,Leave,7,57,0.52,10,0.98,Medium
+S564,24,Male,Arts,2.67,3,73.9,0.7,Active,32,71,0.98,12,0.94,High
+S565,21,Male,Arts,3.77,6,84.8,0.7,Active,37,78,0.61,14,0.79,High
+S566,19,Male,Business,2.77,3,81.8,0.63,Graduated,15,28,0.52,17,0.72,High
+S567,19,Male,Engineering,2.99,4,65.0,0.97,Graduated,4,43,0.65,6,0.89,Medium
+S568,25,Female,Computer Science,2.57,5,71.6,0.83,Leave,15,58,0.89,5,0.87,Medium
+S569,24,Male,Computer Science,3.57,6,69.6,0.87,Graduated,6,89,0.88,10,0.77,Low
+S570,24,Female,Arts,2.79,4,68.5,0.96,Leave,0,56,0.6,7,0.54,Medium
+S571,23,Male,Business,3.03,6,76.4,0.74,Active,8,59,0.6,19,0.96,High
+S572,20,Other,Arts,2.51,6,88.2,0.85,Leave,17,35,0.82,0,0.73,Medium
+S573,18,Female,Business,3.98,3,68.7,0.62,Graduated,2,65,0.73,7,0.68,High
+S574,19,Other,Computer Science,2.58,3,74.7,0.67,Active,23,87,0.9,7,0.81,High
+S575,24,Female,Engineering,3.54,4,75.6,0.93,Leave,27,23,0.51,18,0.84,Low
+S576,23,Other,Business,2.85,6,99.1,0.91,Active,9,87,0.81,2,0.61,Medium
+S577,22,Male,Computer Science,2.41,3,98.2,0.74,Leave,8,34,0.87,4,0.92,High
+S578,23,Male,Arts,3.6,3,92.0,0.75,Graduated,12,13,1.0,2,0.64,Medium
+S579,19,Male,Business,2.67,6,69.7,0.81,Graduated,34,88,0.84,14,0.59,Medium
+S580,19,Female,Engineering,3.73,4,62.7,0.6,Active,22,41,0.62,13,0.7,High
+S581,23,Other,Arts,3.83,4,72.7,0.7,Active,16,87,0.55,14,0.87,High
+S582,18,Male,Arts,3.72,6,70.7,0.68,Active,6,74,0.82,16,0.98,High
+S583,21,Other,Computer Science,2.07,4,80.2,0.7,Leave,15,70,0.76,17,0.9,High
+S584,19,Other,Business,3.57,3,91.1,0.92,Graduated,39,29,0.95,1,0.97,Low
+S585,23,Male,Arts,2.82,6,94.3,0.71,Active,35,83,0.86,11,0.57,High
+S586,24,Male,Engineering,3.75,3,93.8,0.68,Active,19,19,0.75,15,0.54,High
+S587,23,Other,Business,3.28,5,74.4,0.8,Active,23,43,0.7,3,0.78,Medium
+S588,20,Male,Engineering,3.67,5,87.5,0.95,Leave,4,70,0.7,1,0.65,Low
+S589,21,Male,Arts,3.0,4,72.5,0.7,Active,5,36,0.61,13,0.91,High
+S590,22,Male,Engineering,3.07,5,62.4,0.63,Active,27,49,0.51,10,0.84,High
+S591,18,Female,Computer Science,2.29,3,88.1,0.74,Leave,4,74,0.79,12,0.99,High
+S592,25,Other,Engineering,3.57,5,60.4,0.9,Leave,38,42,0.61,6,0.63,Low
+S593,22,Other,Business,2.84,3,76.4,0.82,Active,37,77,0.6,9,0.74,Medium
+S594,21,Female,Engineering,3.0,4,73.2,0.93,Active,1,80,0.56,0,0.75,Low
+S595,21,Other,Engineering,3.57,4,87.7,0.98,Leave,38,18,0.59,3,0.62,Low
+S596,21,Male,Computer Science,3.2,3,90.6,0.92,Graduated,20,25,0.52,17,0.8,Low
+S597,22,Other,Engineering,2.4,5,72.2,0.84,Leave,39,14,0.84,5,0.72,High
+S598,24,Male,Engineering,3.18,4,92.5,0.8,Graduated,36,32,0.7,1,0.72,Medium
+S599,21,Female,Arts,2.82,6,71.8,0.62,Active,17,52,0.78,2,0.68,High
+S600,23,Male,Arts,2.94,4,77.9,0.99,Active,11,66,0.82,13,0.51,Medium
+S601,22,Other,Business,2.06,5,89.1,0.75,Graduated,16,60,0.99,7,0.76,High
+S602,25,Other,Arts,2.42,6,87.7,0.66,Leave,36,22,0.53,15,0.67,High
+S603,21,Other,Arts,2.56,5,99.5,0.87,Active,37,33,0.71,18,0.5,Medium
+S604,23,Female,Arts,3.43,3,69.0,0.71,Graduated,14,20,0.62,17,0.65,High
+S605,24,Female,Arts,2.02,6,86.5,0.83,Leave,6,61,0.74,5,0.64,High
+S606,20,Other,Computer Science,2.82,5,84.4,0.83,Graduated,13,26,0.96,13,0.7,Medium
+S607,24,Male,Arts,3.85,6,96.6,0.78,Leave,0,46,0.86,2,0.57,Medium
+S608,25,Female,Computer Science,2.22,5,66.3,0.93,Leave,37,22,0.83,15,0.75,High
+S609,21,Other,Computer Science,3.03,6,90.1,0.71,Leave,2,71,0.72,0,0.85,High
+S610,25,Other,Arts,3.57,5,82.7,0.78,Leave,36,17,0.84,11,0.82,Medium
+S611,22,Female,Engineering,3.89,3,71.0,0.82,Graduated,30,65,0.52,13,0.9,Medium
+S612,19,Female,Computer Science,3.49,6,79.0,0.87,Graduated,12,79,0.79,18,0.73,Low
+S613,21,Female,Engineering,3.44,6,73.4,0.91,Graduated,17,53,0.78,18,0.76,Low
+S614,19,Male,Engineering,3.65,6,83.2,0.76,Graduated,16,69,0.67,8,0.91,Medium
+S615,23,Male,Arts,2.89,6,95.6,0.86,Graduated,16,50,0.6,6,0.71,Medium
+S616,20,Other,Business,3.61,3,82.8,0.66,Leave,10,30,0.9,13,0.85,High
+S617,18,Female,Arts,2.02,6,85.3,0.97,Active,19,51,0.53,4,0.72,High
+S618,25,Male,Business,3.85,4,80.7,0.75,Active,9,83,0.53,17,0.71,Medium
+S619,24,Female,Business,2.89,3,62.0,0.89,Graduated,28,83,0.72,8,0.88,Medium
+S620,20,Other,Arts,3.11,4,69.3,0.61,Graduated,33,38,0.63,6,0.59,High
+S621,21,Male,Arts,2.51,6,79.7,0.68,Active,16,89,0.87,8,0.67,High
+S622,19,Male,Business,3.49,5,72.4,0.79,Leave,12,74,0.82,3,0.61,Medium
+S623,24,Male,Arts,2.15,4,67.3,0.95,Graduated,38,26,0.89,16,0.68,High
+S624,19,Other,Business,3.75,6,80.2,0.81,Leave,26,39,0.66,11,0.62,Medium
+S625,22,Female,Engineering,3.66,4,72.9,0.97,Active,25,35,0.87,5,0.79,Low
+S626,19,Male,Arts,2.43,6,70.3,0.79,Active,27,62,0.93,17,0.9,High
+S627,22,Other,Engineering,3.62,6,78.6,0.8,Graduated,12,28,0.67,7,0.89,Medium
+S628,23,Female,Computer Science,3.57,6,65.3,0.65,Leave,11,62,0.67,14,0.68,High
+S629,24,Other,Engineering,3.26,5,97.1,0.92,Graduated,27,26,0.95,2,0.99,Low
+S630,24,Female,Engineering,2.75,4,94.7,0.7,Active,1,55,0.52,1,0.8,High
+S631,18,Other,Business,2.54,3,88.3,0.96,Leave,36,62,0.68,8,0.7,Medium
+S632,21,Female,Engineering,2.46,3,64.2,0.96,Graduated,33,73,0.56,7,0.92,High
+S633,22,Male,Arts,2.64,3,91.0,0.98,Graduated,22,54,0.51,3,0.86,Medium
+S634,18,Female,Business,3.81,3,92.3,0.81,Graduated,28,58,0.56,1,0.87,Medium
+S635,19,Other,Computer Science,2.16,6,90.7,0.87,Active,34,28,0.72,13,0.6,High
+S636,19,Other,Arts,3.66,4,64.6,0.91,Graduated,10,80,0.84,1,0.73,Low
+S637,18,Female,Computer Science,2.7,4,85.8,0.65,Leave,32,74,0.64,1,0.93,High
+S638,24,Male,Engineering,3.04,5,93.4,0.84,Graduated,10,46,0.92,6,0.75,Medium
+S639,19,Male,Arts,3.59,4,83.1,0.61,Active,8,79,0.72,11,0.84,High
+S640,25,Female,Arts,3.77,4,85.9,0.8,Graduated,13,35,0.98,5,0.79,Medium
+S641,23,Female,Computer Science,2.69,4,78.3,0.66,Active,8,11,0.98,17,0.92,High
+S642,23,Other,Arts,2.92,5,81.1,0.67,Active,38,68,0.89,3,0.64,High
+S643,25,Male,Arts,2.83,3,61.4,0.75,Leave,2,14,0.97,18,0.79,Medium
+S644,18,Female,Arts,2.03,4,85.6,0.77,Leave,28,46,0.85,12,0.56,High
+S645,25,Male,Engineering,2.59,5,63.3,0.85,Graduated,18,40,0.95,19,0.85,Medium
+S646,22,Female,Computer Science,2.92,5,77.4,0.63,Active,35,85,0.62,1,0.87,High
+S647,22,Female,Arts,2.82,6,71.7,0.8,Active,31,57,0.67,7,0.52,Medium
+S648,18,Male,Business,3.44,5,81.8,0.67,Leave,6,15,0.88,18,0.84,High
+S649,25,Female,Business,2.77,3,65.3,0.83,Leave,27,24,0.71,8,0.71,Medium
+S650,22,Female,Business,2.98,4,87.7,0.85,Graduated,17,24,0.92,3,0.56,Medium
+S651,24,Other,Business,2.86,5,91.8,0.82,Active,4,70,0.94,15,0.71,Medium
+S652,25,Female,Engineering,3.48,3,66.5,0.9,Leave,22,25,0.65,18,0.6,Low
+S653,24,Female,Arts,3.73,5,64.2,0.73,Graduated,21,29,0.91,9,0.71,High
+S654,22,Female,Computer Science,3.06,5,65.8,0.91,Active,25,86,0.58,5,0.69,Low
+S655,23,Other,Arts,3.58,5,95.1,0.77,Active,11,53,0.67,15,0.87,Medium
+S656,22,Male,Engineering,2.59,5,81.1,0.79,Leave,39,51,0.76,9,0.89,Medium
+S657,24,Other,Business,3.08,5,78.7,0.86,Graduated,18,55,0.61,12,0.8,Low
+S658,20,Other,Engineering,2.69,3,64.3,0.61,Leave,0,43,0.79,8,0.51,High
+S659,21,Male,Arts,2.83,4,86.0,0.86,Graduated,2,73,0.79,6,0.97,Medium
+S660,19,Other,Computer Science,3.46,4,94.7,0.85,Active,26,38,0.6,3,0.84,Low
+S661,25,Male,Engineering,3.76,4,93.1,0.72,Graduated,17,12,0.9,18,0.52,High
+S662,20,Other,Computer Science,2.24,4,85.0,0.63,Graduated,29,18,0.82,3,0.91,High
+S663,22,Male,Engineering,3.27,3,63.0,0.64,Graduated,1,84,0.66,18,0.6,High
+S664,23,Female,Computer Science,3.16,6,64.5,0.97,Graduated,4,84,0.62,18,0.79,Low
+S665,18,Other,Computer Science,2.24,6,62.0,0.88,Graduated,28,34,0.94,11,0.73,High
+S666,22,Other,Business,2.42,3,70.3,0.65,Leave,32,51,0.92,12,0.71,High
+S667,23,Other,Computer Science,2.62,3,65.4,0.74,Graduated,19,55,0.61,3,0.94,High
+S668,21,Other,Business,2.33,5,70.4,0.84,Graduated,29,82,0.52,9,0.72,High
+S669,22,Female,Arts,2.49,5,75.4,0.93,Active,4,68,0.9,6,0.54,High
+S670,24,Other,Arts,2.54,5,97.7,0.62,Graduated,20,30,0.81,4,0.97,High
+S671,18,Female,Business,2.67,4,84.4,0.69,Active,14,83,0.55,16,0.96,High
+S672,23,Female,Business,3.5,5,93.4,0.96,Leave,19,31,0.79,17,0.84,Low
+S673,23,Female,Engineering,3.14,6,88.4,0.6,Leave,7,38,0.73,10,0.73,High
+S674,23,Female,Engineering,3.97,4,64.5,0.68,Graduated,30,72,0.89,14,0.55,High
+S675,21,Male,Engineering,2.83,5,89.4,0.98,Leave,11,82,0.6,6,0.9,Medium
+S676,22,Male,Arts,3.51,4,71.0,0.85,Graduated,20,70,0.73,17,0.54,Low
+S677,21,Other,Engineering,3.74,6,85.6,0.7,Leave,29,73,0.58,5,0.53,High
+S678,25,Male,Computer Science,3.36,5,73.6,0.63,Graduated,26,78,0.98,17,0.77,High
+S679,19,Male,Computer Science,2.82,6,99.9,0.61,Graduated,25,49,0.89,15,0.58,High
+S680,19,Other,Engineering,3.51,6,70.5,0.7,Active,32,84,0.87,1,0.5,High
+S681,25,Other,Computer Science,2.41,6,71.2,0.95,Active,25,10,0.85,18,0.71,High
+S682,22,Other,Arts,2.66,5,97.2,0.77,Active,25,74,0.71,0,0.57,Medium
+S683,24,Male,Computer Science,3.09,3,61.0,0.89,Active,35,71,0.96,10,0.58,Low
+S684,21,Male,Arts,3.15,5,87.9,0.97,Graduated,39,63,0.54,19,0.54,Low
+S685,18,Other,Business,2.04,6,89.0,0.76,Leave,0,69,0.9,4,0.6,High
+S686,23,Female,Business,3.89,5,93.5,0.68,Graduated,14,55,0.61,15,0.86,High
+S687,23,Other,Business,3.39,6,99.0,0.81,Active,0,14,0.66,0,0.9,Medium
+S688,22,Female,Business,2.99,3,99.0,0.96,Active,10,31,0.76,18,0.73,Medium
+S689,24,Female,Computer Science,3.87,4,62.6,0.92,Leave,1,62,0.89,13,0.75,Low
+S690,19,Other,Engineering,2.88,3,92.9,0.63,Active,0,79,0.92,2,0.52,High
+S691,19,Other,Computer Science,3.96,3,85.9,0.88,Graduated,30,41,0.79,1,0.53,Low
+S692,23,Other,Arts,3.02,4,85.9,0.83,Graduated,15,20,0.7,4,0.63,Medium
+S693,22,Male,Computer Science,2.23,5,65.1,0.96,Graduated,21,19,0.97,16,0.77,High
+S694,21,Female,Computer Science,3.53,4,86.0,0.65,Graduated,17,48,0.62,17,0.87,High
+S695,19,Male,Arts,3.36,5,99.3,0.81,Graduated,16,40,0.9,0,0.8,Medium
+S696,21,Male,Business,3.55,5,96.5,0.95,Leave,29,21,0.81,14,0.7,Low
+S697,24,Other,Business,3.9,6,77.6,0.76,Graduated,9,89,0.69,8,0.56,Medium
+S698,19,Male,Business,3.55,6,61.6,0.79,Active,34,47,0.5,4,0.89,Medium
+S699,19,Other,Engineering,3.22,4,74.5,0.63,Active,20,76,0.72,12,0.68,High
+S700,20,Female,Arts,3.71,3,93.1,0.71,Active,15,75,0.64,18,0.87,High
+S701,19,Other,Arts,3.35,4,88.1,0.73,Active,5,61,0.55,9,0.76,High
+S702,25,Male,Computer Science,2.82,5,78.4,0.98,Leave,2,14,0.54,19,0.87,Medium
+S703,18,Male,Engineering,3.77,6,62.2,0.71,Active,20,20,0.67,13,0.95,High
+S704,25,Other,Business,2.44,4,77.1,0.78,Leave,12,34,0.81,11,0.96,High
+S705,22,Other,Engineering,3.43,4,78.8,0.87,Active,17,44,0.92,10,0.77,Low
+S706,22,Male,Arts,3.76,6,97.1,0.66,Leave,23,44,0.59,6,0.76,High
+S707,21,Female,Arts,3.46,6,85.6,0.79,Leave,26,31,0.71,16,0.63,Medium
+S708,25,Female,Computer Science,3.39,6,72.5,0.9,Leave,3,46,0.7,17,0.97,Low
+S709,25,Other,Computer Science,3.51,5,81.0,0.95,Active,21,64,0.76,6,0.73,Low
+S710,25,Female,Arts,2.93,6,62.6,0.85,Leave,23,84,0.9,19,0.56,Medium
+S711,24,Male,Business,3.75,3,98.9,0.87,Graduated,39,81,0.78,5,0.72,Low
+S712,19,Other,Business,2.41,4,74.4,0.65,Graduated,9,73,0.92,10,0.56,High
+S713,18,Male,Engineering,2.25,6,79.1,0.98,Active,1,29,0.76,11,0.75,High
+S714,21,Male,Arts,2.57,6,74.2,0.65,Graduated,39,13,0.8,15,0.78,High
+S715,25,Female,Arts,3.06,5,87.3,0.91,Graduated,5,27,0.72,18,0.67,Low
+S716,25,Other,Business,3.02,5,86.5,0.71,Graduated,17,60,0.91,18,0.54,High
+S717,20,Other,Business,3.64,4,88.6,0.97,Active,16,77,0.96,10,0.97,Low
+S718,21,Female,Arts,2.81,3,70.7,0.89,Active,37,29,0.82,15,0.89,Medium
+S719,25,Male,Computer Science,2.97,4,72.6,0.9,Graduated,22,18,0.91,11,0.92,Medium
+S720,21,Male,Arts,2.03,6,65.0,0.69,Active,29,89,0.53,7,0.68,High
+S721,19,Male,Arts,2.82,3,86.2,0.78,Leave,20,35,0.95,2,0.88,Medium
+S722,20,Male,Business,3.3,3,61.6,0.85,Graduated,9,34,0.59,1,0.74,Low
+S723,21,Other,Business,2.03,3,83.9,0.91,Active,12,77,0.63,5,0.6,High
+S724,18,Other,Computer Science,2.56,3,94.8,0.64,Active,11,50,0.53,15,0.56,High
+S725,18,Female,Computer Science,2.42,4,95.6,0.98,Graduated,8,68,0.98,19,0.67,High
+S726,22,Female,Engineering,2.08,5,78.0,0.96,Active,3,54,0.93,14,0.57,High
+S727,20,Other,Arts,2.96,5,78.4,0.71,Graduated,38,50,0.96,13,1.0,High
+S728,20,Other,Business,2.36,6,63.1,0.93,Active,23,47,0.92,1,0.52,High
+S729,22,Male,Computer Science,3.49,5,86.8,0.81,Leave,33,28,0.74,19,0.72,Medium
+S730,21,Male,Engineering,3.7,5,92.9,0.78,Graduated,38,23,0.96,17,0.73,Medium
+S731,20,Female,Engineering,3.09,5,69.8,0.73,Leave,4,30,0.98,13,0.65,High
+S732,18,Other,Business,3.96,5,76.9,0.83,Graduated,14,24,0.75,17,0.79,Medium
+S733,18,Female,Business,2.9,6,93.6,0.89,Active,3,12,0.59,1,0.57,Medium
+S734,25,Other,Engineering,3.03,4,95.1,0.76,Leave,38,46,0.83,0,0.89,Medium
+S735,19,Male,Computer Science,3.98,3,69.7,0.85,Active,7,55,0.99,19,0.67,Low
+S736,20,Female,Engineering,2.46,5,82.0,0.88,Graduated,23,25,0.94,1,0.8,High
+S737,21,Female,Arts,3.89,4,67.7,0.88,Graduated,27,23,0.93,8,0.86,Low
+S738,22,Other,Arts,2.09,5,64.1,0.62,Graduated,26,18,0.97,8,0.94,High
+S739,22,Male,Business,2.89,5,96.4,0.94,Graduated,0,16,0.95,15,0.92,Medium
+S740,21,Female,Computer Science,2.14,3,92.8,0.78,Graduated,33,23,0.89,10,0.8,High
+S741,24,Male,Computer Science,3.46,3,90.4,0.7,Leave,16,15,0.86,5,0.69,High
+S742,23,Female,Arts,3.22,3,62.0,0.7,Graduated,36,24,0.63,11,0.75,High
+S743,19,Male,Engineering,3.41,5,93.7,0.79,Active,37,61,0.81,2,0.88,Medium
+S744,22,Other,Business,2.75,5,77.5,0.95,Leave,25,81,0.76,11,0.94,Medium
+S745,20,Female,Engineering,2.74,5,73.7,0.75,Active,23,43,0.93,0,0.55,Medium
+S746,19,Female,Engineering,2.09,3,81.9,0.9,Graduated,38,10,0.75,8,0.69,High
+S747,20,Male,Engineering,2.7,6,63.7,0.64,Active,20,78,0.56,19,0.89,High
+S748,24,Male,Computer Science,3.86,4,90.3,0.79,Leave,29,29,0.5,5,0.72,Medium
+S749,18,Female,Arts,2.76,6,83.3,1.0,Leave,12,89,0.84,10,0.67,Medium
+S750,19,Other,Computer Science,3.66,5,67.5,0.91,Leave,36,16,0.77,2,0.71,Low
+S751,25,Male,Arts,3.68,5,67.5,0.68,Active,2,16,0.67,3,0.8,High
+S752,22,Male,Business,2.75,6,67.4,0.8,Leave,31,59,0.58,9,1.0,Medium
+S753,19,Male,Business,3.26,5,62.3,0.69,Active,34,11,0.73,18,0.75,High
+S754,19,Female,Engineering,2.19,4,83.5,0.76,Graduated,18,56,0.55,5,0.6,High
+S755,19,Female,Arts,2.21,5,93.6,0.91,Graduated,13,23,0.67,0,0.58,High
+S756,23,Female,Arts,2.1,4,60.7,0.91,Active,21,40,0.69,7,0.52,High
+S757,19,Female,Arts,3.16,6,62.0,0.69,Leave,16,59,0.73,7,0.78,High
+S758,20,Other,Engineering,2.85,6,82.9,0.97,Active,3,70,0.73,5,0.77,Medium
+S759,18,Other,Engineering,3.1,5,92.8,0.84,Active,39,50,0.63,16,0.6,Medium
+S760,24,Female,Business,3.04,4,73.1,0.75,Active,18,23,0.93,18,0.85,Medium
+S761,21,Other,Computer Science,2.7,5,74.0,0.8,Graduated,36,14,0.68,0,0.87,Medium
+S762,19,Male,Arts,3.35,3,83.9,0.84,Active,1,84,0.61,14,0.63,Medium
+S763,22,Male,Arts,3.52,3,71.0,0.82,Graduated,14,14,0.59,12,0.67,Medium
+S764,19,Male,Computer Science,2.03,3,61.1,0.79,Active,1,73,0.66,2,1.0,High
+S765,22,Female,Arts,2.41,3,89.4,0.8,Graduated,10,38,0.53,1,0.69,High
+S766,20,Male,Engineering,3.43,5,85.0,0.67,Active,22,84,0.52,2,0.88,High
+S767,22,Other,Engineering,2.77,3,83.2,0.93,Active,9,14,0.8,8,0.73,Medium
+S768,25,Female,Arts,3.32,4,89.7,0.82,Leave,2,45,0.81,15,0.9,Medium
+S769,21,Other,Engineering,2.69,6,87.0,0.65,Leave,4,88,0.76,12,0.88,High
+S770,18,Male,Engineering,2.78,6,68.2,0.91,Active,2,28,0.88,18,0.83,Medium
+S771,22,Male,Arts,2.32,3,74.1,0.97,Active,37,73,0.52,17,0.93,High
+S772,22,Male,Business,2.52,3,65.0,0.98,Active,12,31,0.97,11,0.97,Medium
+S773,18,Female,Computer Science,3.21,3,65.2,0.75,Active,18,43,0.55,11,0.79,Medium
+S774,21,Other,Engineering,2.87,5,87.0,0.65,Leave,39,65,0.84,0,0.62,High
+S775,19,Female,Business,3.55,6,94.3,0.81,Graduated,34,26,0.57,19,0.7,Medium
+S776,22,Female,Engineering,3.71,3,98.5,0.65,Active,23,85,0.94,7,0.88,High
+S777,18,Male,Engineering,3.08,4,85.1,0.97,Leave,23,65,0.76,16,0.83,Low
+S778,25,Female,Computer Science,3.52,3,67.4,0.67,Active,16,26,0.54,19,0.59,High
+S779,25,Female,Engineering,2.61,6,64.2,0.7,Active,39,83,0.81,6,0.53,High
+S780,20,Male,Computer Science,2.83,3,92.5,0.76,Graduated,9,27,0.5,8,0.84,Medium
+S781,18,Female,Computer Science,3.43,6,83.2,0.75,Active,1,54,0.89,16,0.63,Medium
+S782,20,Male,Computer Science,2.77,3,84.7,0.92,Active,22,87,0.83,9,0.75,Medium
+S783,25,Male,Business,3.18,4,91.3,0.78,Graduated,5,65,0.61,3,0.87,Medium
+S784,21,Male,Arts,2.37,3,88.1,0.67,Graduated,1,89,0.69,6,0.78,High
+S785,19,Male,Business,3.2,4,93.4,0.71,Graduated,20,59,0.5,6,0.54,High
+S786,18,Female,Arts,3.72,4,62.2,0.8,Graduated,34,67,0.85,7,0.59,Medium
+S787,24,Male,Arts,3.74,3,89.9,0.66,Leave,28,27,0.66,7,0.61,High
+S788,25,Male,Computer Science,3.45,4,94.0,0.84,Leave,6,89,0.79,15,0.63,Medium
+S789,25,Female,Engineering,3.49,5,71.4,0.83,Leave,28,16,0.98,11,0.78,Medium
+S790,24,Female,Computer Science,3.12,3,85.6,0.89,Active,36,85,0.65,14,0.75,Low
+S791,23,Other,Engineering,3.17,3,72.6,0.98,Graduated,22,19,1.0,7,0.6,Low
+S792,25,Female,Arts,2.27,4,98.3,0.96,Graduated,32,78,0.82,8,0.53,High
+S793,22,Female,Computer Science,2.89,4,61.3,0.98,Leave,7,12,0.62,2,0.59,Medium
+S794,21,Other,Engineering,2.9,3,83.2,0.7,Active,11,53,0.72,15,0.99,High
+S795,18,Female,Business,3.92,5,66.7,0.65,Active,9,79,0.87,14,0.73,High
+S796,24,Female,Engineering,2.86,4,88.5,0.72,Active,14,23,0.72,3,0.93,High
+S797,22,Female,Computer Science,3.1,4,67.0,0.96,Leave,23,13,0.53,19,0.92,Low
+S798,24,Female,Business,3.07,6,69.4,0.99,Active,25,27,0.58,15,0.76,Low
+S799,18,Other,Engineering,3.27,5,79.8,0.94,Active,38,61,0.9,9,0.85,Low
+S800,20,Female,Engineering,3.5,5,96.6,0.64,Active,2,47,0.82,10,0.6,High
+S801,18,Female,Engineering,2.45,3,68.5,0.98,Graduated,1,89,0.78,4,0.84,High
+S802,23,Other,Engineering,3.06,5,65.8,0.77,Leave,5,29,0.58,10,0.64,Medium
+S803,18,Male,Engineering,3.65,3,90.4,0.6,Graduated,20,53,0.92,12,0.92,High
+S804,18,Other,Business,2.93,6,80.0,0.78,Graduated,8,60,0.98,14,0.54,Medium
+S805,23,Male,Arts,2.56,5,96.5,0.62,Leave,9,28,0.52,5,0.89,High
+S806,21,Other,Business,3.31,4,65.9,0.82,Graduated,35,77,0.54,15,0.55,Medium
+S807,25,Other,Business,3.65,6,85.8,0.74,Active,2,75,0.94,14,0.94,High
+S808,18,Female,Business,2.13,3,69.3,0.79,Active,23,22,0.91,10,0.65,High
+S809,23,Male,Arts,3.55,6,66.3,0.85,Active,21,71,0.81,19,0.83,Low
+S810,22,Female,Computer Science,3.64,3,87.3,0.95,Active,13,70,0.97,1,0.74,Low
+S811,20,Male,Arts,2.92,6,83.7,0.86,Leave,26,39,0.82,1,0.68,Medium
+S812,20,Other,Business,3.97,3,90.2,0.77,Graduated,32,39,0.61,11,0.82,Medium
+S813,18,Other,Engineering,3.57,5,72.4,0.93,Graduated,21,60,0.86,15,0.97,Low
+S814,21,Male,Engineering,3.55,4,77.9,0.96,Active,28,57,0.82,18,0.52,Low
+S815,21,Female,Business,3.5,3,76.2,0.65,Active,18,42,0.99,1,0.96,High
+S816,22,Female,Engineering,2.3,6,99.4,0.81,Graduated,18,83,0.61,16,0.8,High
+S817,18,Female,Business,2.43,3,71.7,0.71,Leave,5,28,0.8,13,0.9,High
+S818,20,Female,Engineering,2.93,3,71.8,0.62,Graduated,18,80,0.89,15,0.69,High
+S819,21,Other,Arts,2.53,3,74.2,0.87,Active,12,66,0.67,4,0.74,Medium
+S820,18,Other,Computer Science,2.83,6,82.6,0.95,Active,25,28,0.69,9,0.93,Medium
+S821,24,Other,Computer Science,3.78,4,70.1,0.67,Leave,21,88,0.94,16,0.71,High
+S822,21,Other,Arts,3.65,5,96.6,0.92,Graduated,20,50,0.7,12,0.77,Low
+S823,23,Other,Arts,3.26,4,70.6,0.94,Leave,35,51,0.81,15,0.51,Low
+S824,24,Female,Business,3.72,3,95.8,0.97,Leave,1,61,0.94,8,0.58,Low
+S825,25,Female,Business,3.57,6,64.1,0.71,Active,29,13,0.6,3,0.82,High
+S826,21,Female,Business,2.86,4,86.3,0.96,Graduated,26,13,0.99,15,0.86,Medium
+S827,20,Female,Engineering,2.4,3,96.3,0.73,Active,6,14,0.85,10,0.79,High
+S828,19,Other,Business,3.03,5,66.7,0.82,Graduated,19,50,0.75,6,0.57,Medium
+S829,24,Other,Arts,3.47,5,98.7,0.62,Active,30,70,0.72,16,0.72,High
+S830,25,Other,Computer Science,2.87,5,78.1,0.62,Active,22,84,0.98,12,0.68,High
+S831,22,Male,Engineering,3.33,3,97.8,0.89,Graduated,12,64,0.6,3,0.75,Low
+S832,22,Female,Business,2.19,6,87.1,0.78,Graduated,16,84,0.66,13,0.94,High
+S833,20,Female,Engineering,3.5,4,72.1,0.7,Active,3,22,0.65,9,0.89,High
+S834,21,Other,Engineering,3.63,5,67.5,0.68,Graduated,13,23,0.64,9,0.54,High
+S835,18,Female,Business,3.41,3,72.1,0.87,Active,19,69,0.73,9,0.95,Low
+S836,21,Female,Engineering,3.93,3,63.7,0.6,Graduated,12,81,0.99,11,0.74,High
+S837,20,Other,Computer Science,3.65,4,65.8,0.92,Active,2,34,0.94,1,0.87,Low
+S838,22,Male,Arts,3.81,5,64.2,0.63,Active,25,53,0.66,8,0.57,High
+S839,21,Male,Arts,3.87,3,76.9,0.68,Active,25,19,0.71,4,0.84,High
+S840,22,Male,Computer Science,3.6,4,91.8,0.75,Leave,17,80,0.83,7,0.62,Medium
+S841,24,Other,Engineering,3.35,6,65.7,0.79,Graduated,31,59,0.51,13,0.72,Medium
+S842,25,Female,Business,2.01,6,65.2,0.74,Active,13,53,0.91,6,0.51,High
+S843,18,Other,Engineering,2.93,6,85.7,0.73,Leave,2,23,0.94,6,0.58,High
+S844,24,Other,Computer Science,3.14,5,67.9,0.99,Active,0,24,0.93,8,0.55,Low
+S845,22,Female,Engineering,2.61,4,63.9,0.86,Leave,25,25,0.69,2,0.62,Medium
+S846,22,Male,Arts,2.64,4,66.7,0.61,Active,23,11,0.73,13,0.55,High
+S847,19,Male,Engineering,3.92,3,96.9,0.77,Active,34,39,0.51,16,0.85,Medium
+S848,19,Other,Computer Science,3.78,3,92.9,0.95,Leave,13,39,0.7,17,0.51,Low
+S849,24,Male,Arts,3.7,3,74.2,0.72,Leave,2,40,0.73,11,0.81,High
+S850,23,Other,Engineering,2.81,4,86.2,0.64,Graduated,12,86,0.95,13,0.57,High
+S851,24,Other,Engineering,2.03,3,81.5,0.9,Graduated,13,29,0.95,12,0.97,High
+S852,19,Female,Arts,2.16,4,87.1,0.84,Leave,20,58,0.98,13,0.97,High
+S853,22,Female,Business,2.62,4,87.3,0.83,Graduated,25,44,0.94,8,0.61,Medium
+S854,20,Female,Arts,2.03,6,85.1,0.62,Leave,2,32,0.5,18,0.81,High
+S855,24,Other,Business,2.03,3,70.6,0.66,Graduated,39,70,0.82,1,0.51,High
+S856,22,Female,Computer Science,3.83,6,61.6,0.85,Active,3,64,0.53,10,0.97,Low
+S857,20,Male,Computer Science,3.41,5,78.2,0.68,Graduated,35,76,0.64,16,0.76,High
+S858,20,Male,Arts,2.62,5,95.6,0.8,Active,0,17,0.79,1,0.52,Medium
+S859,19,Other,Arts,2.27,5,82.8,0.82,Active,39,49,0.85,18,0.67,High
+S860,24,Other,Computer Science,3.02,4,93.3,0.71,Graduated,32,68,0.83,6,0.54,High
+S861,21,Female,Business,2.01,4,99.7,0.98,Leave,6,41,0.52,17,0.7,High
+S862,18,Other,Computer Science,3.88,4,66.5,0.94,Active,10,16,0.55,12,0.83,Low
+S863,19,Other,Arts,2.83,3,87.7,0.89,Active,26,11,0.56,4,0.73,Medium
+S864,19,Male,Computer Science,2.8,6,87.0,0.63,Graduated,13,15,0.55,17,0.69,High
+S865,21,Male,Arts,2.78,4,99.2,0.64,Leave,21,45,0.59,15,0.56,High
+S866,18,Female,Arts,2.14,6,99.4,0.8,Leave,15,41,0.84,14,0.62,High
+S867,22,Other,Computer Science,3.28,6,87.5,0.66,Graduated,11,54,0.92,7,0.55,High
+S868,23,Other,Business,3.47,6,69.7,0.99,Leave,9,51,0.7,14,0.9,Low
+S869,24,Male,Engineering,3.35,3,91.9,0.66,Graduated,23,62,0.85,0,0.57,High
+S870,23,Other,Computer Science,2.28,3,64.3,0.79,Graduated,17,18,0.6,16,0.8,High
+S871,22,Male,Engineering,3.16,5,91.2,0.75,Graduated,21,84,0.99,14,0.67,Medium
+S872,25,Female,Computer Science,3.14,5,96.4,0.86,Active,8,84,0.67,13,0.61,Low
+S873,19,Male,Engineering,3.74,6,75.3,0.65,Active,16,58,0.92,13,0.82,High
+S874,18,Other,Business,2.76,5,85.2,0.77,Active,37,11,0.97,9,0.73,Medium
+S875,19,Female,Business,2.74,6,77.2,0.71,Graduated,39,76,0.93,1,0.7,High
+S876,20,Male,Computer Science,3.24,3,77.5,0.96,Active,12,20,0.53,5,0.8,Low
+S877,19,Male,Arts,3.27,3,72.4,0.62,Active,36,59,0.83,16,0.75,High
+S878,19,Female,Engineering,2.94,3,90.5,0.97,Active,5,44,0.56,4,0.65,Medium
+S879,22,Female,Arts,2.89,4,97.4,0.93,Graduated,20,24,0.5,4,0.78,Medium
+S880,22,Male,Arts,2.99,6,97.6,0.72,Graduated,35,84,0.53,14,0.83,High
+S881,22,Other,Arts,3.72,3,67.0,0.92,Graduated,6,40,0.96,14,0.51,Low
+S882,23,Male,Business,2.92,6,95.0,0.61,Active,35,71,0.95,19,0.73,High
+S883,20,Female,Computer Science,3.88,5,89.5,0.99,Leave,24,37,0.61,10,0.53,Low
+S884,25,Male,Computer Science,3.01,5,70.1,0.81,Active,10,34,0.77,4,0.59,Medium
+S885,25,Female,Business,3.9,3,62.7,0.72,Active,13,34,0.98,0,0.78,High
+S886,22,Female,Business,3.67,6,70.7,0.75,Graduated,28,84,0.75,10,0.93,Medium
+S887,18,Other,Computer Science,2.72,3,96.5,0.63,Graduated,9,10,0.7,10,0.94,High
+S888,23,Female,Arts,3.73,5,85.3,1.0,Active,4,68,0.74,5,0.53,Low
+S889,21,Female,Engineering,2.22,3,88.8,0.62,Active,7,78,0.9,7,0.71,High
+S890,18,Other,Engineering,3.85,6,70.3,0.86,Leave,4,83,0.74,1,0.79,Low
+S891,24,Female,Engineering,3.26,5,88.8,0.78,Leave,23,51,0.89,14,0.57,Medium
+S892,24,Other,Arts,2.11,4,61.1,0.98,Graduated,39,43,0.72,8,0.88,High
+S893,18,Other,Computer Science,3.29,5,75.0,0.7,Leave,25,75,0.63,14,0.87,High
+S894,22,Female,Business,3.95,4,85.1,0.81,Leave,5,27,0.66,7,0.95,Medium
+S895,21,Female,Computer Science,2.14,3,65.8,0.79,Graduated,15,86,0.54,15,0.5,High
+S896,21,Male,Arts,3.11,3,92.9,0.88,Leave,35,14,0.75,13,0.61,Low
+S897,23,Other,Business,3.5,6,69.4,0.63,Active,11,29,0.57,14,0.91,High
+S898,21,Male,Arts,3.62,4,86.1,0.68,Leave,10,75,0.91,19,0.84,High
+S899,24,Female,Engineering,2.83,3,76.2,0.69,Graduated,2,84,0.71,12,0.95,High
+S900,20,Male,Engineering,2.41,4,83.8,0.9,Active,36,71,0.88,8,0.53,High
+S901,22,Other,Arts,2.08,3,64.3,0.68,Leave,5,41,0.98,0,0.8,High
+S902,21,Male,Business,3.16,5,60.7,0.83,Active,18,67,0.92,5,0.78,Medium
+S903,23,Other,Business,2.91,3,96.4,0.69,Active,17,59,0.98,7,0.52,High
+S904,24,Female,Computer Science,3.9,6,70.8,0.94,Leave,15,47,0.78,19,0.76,Low
+S905,20,Female,Engineering,2.12,5,92.8,0.98,Leave,22,64,0.58,17,0.8,High
+S906,19,Other,Computer Science,3.37,6,100.0,0.81,Graduated,36,37,0.97,17,0.6,Medium
+S907,19,Female,Computer Science,2.05,5,68.5,0.74,Graduated,8,83,0.93,16,0.64,High
+S908,20,Female,Arts,2.34,4,70.6,0.69,Active,2,31,0.93,15,0.82,High
+S909,24,Female,Arts,2.91,6,86.5,0.62,Graduated,7,52,0.85,12,0.73,High
+S910,23,Female,Computer Science,2.91,3,98.6,0.71,Active,37,45,0.81,3,0.93,High
+S911,20,Other,Engineering,3.37,4,96.6,0.86,Active,3,61,0.51,3,0.67,Low
+S912,22,Male,Arts,3.82,3,80.1,0.81,Graduated,11,45,0.87,13,0.63,Medium
+S913,22,Male,Computer Science,3.28,5,91.8,0.98,Graduated,30,37,0.55,4,0.99,Low
+S914,19,Female,Computer Science,3.91,5,65.4,0.76,Graduated,24,87,0.63,15,0.96,Medium
+S915,21,Male,Computer Science,3.76,3,99.1,0.88,Leave,15,67,0.78,13,0.51,Low
+S916,23,Male,Computer Science,3.17,3,98.6,0.8,Active,13,45,0.73,13,0.89,Medium
+S917,19,Female,Computer Science,3.67,4,66.5,0.81,Active,12,79,0.51,13,0.56,Medium
+S918,21,Female,Computer Science,3.29,3,72.0,0.71,Active,6,18,0.91,13,0.51,High
+S919,21,Male,Arts,2.16,6,64.0,0.78,Graduated,11,30,0.94,18,0.64,High
+S920,25,Other,Engineering,3.48,6,70.9,0.79,Graduated,36,73,0.84,2,0.63,Medium
+S921,22,Female,Computer Science,2.19,3,92.6,0.88,Graduated,3,85,0.77,16,0.91,High
+S922,24,Other,Business,3.19,6,75.1,0.98,Graduated,1,70,0.98,13,0.86,Low
+S923,18,Male,Arts,3.41,3,63.5,0.73,Graduated,34,49,0.56,9,0.99,High
+S924,24,Female,Arts,2.13,4,73.7,0.62,Leave,2,65,0.87,12,0.86,High
+S925,18,Other,Computer Science,2.46,6,99.3,0.8,Graduated,3,13,0.56,3,0.71,High
+S926,20,Female,Arts,3.83,6,85.2,0.82,Active,37,40,0.69,10,0.85,Medium
+S927,22,Male,Computer Science,3.23,3,76.6,0.67,Graduated,11,36,0.79,14,1.0,High
+S928,21,Other,Engineering,2.49,6,66.7,0.9,Active,18,67,0.87,14,0.86,High
+S929,23,Male,Engineering,3.38,5,99.4,0.99,Graduated,9,34,0.5,1,0.88,Low
+S930,18,Male,Arts,3.19,4,92.8,0.98,Graduated,0,78,0.63,10,0.97,Low
+S931,24,Female,Arts,3.0,4,71.3,0.68,Active,16,79,0.77,1,0.56,High
+S932,21,Other,Business,3.95,6,62.8,0.95,Active,15,14,0.77,4,0.85,Low
+S933,18,Male,Arts,3.37,6,62.3,0.88,Active,8,17,0.82,12,0.93,Low
+S934,18,Male,Business,2.75,5,64.8,0.78,Active,8,18,0.65,0,0.98,Medium
+S935,25,Other,Engineering,3.6,5,83.2,0.82,Leave,8,24,0.77,6,0.61,Medium
+S936,18,Male,Engineering,3.77,6,97.2,0.94,Active,11,16,0.59,6,0.75,Low
+S937,23,Male,Computer Science,2.25,6,79.9,0.79,Graduated,14,81,0.59,9,0.84,High
+S938,22,Other,Engineering,2.4,5,93.7,0.75,Graduated,1,24,0.79,5,0.62,High
+S939,23,Other,Business,2.43,3,77.8,0.8,Leave,10,46,0.84,19,0.8,High
+S940,19,Other,Arts,3.38,5,88.3,0.83,Active,10,48,0.56,11,0.63,Medium
+S941,21,Other,Computer Science,3.21,3,89.3,0.68,Graduated,7,15,0.56,12,0.67,High
+S942,22,Female,Business,3.24,4,67.0,0.96,Leave,31,66,0.78,10,0.72,Low
+S943,25,Other,Arts,3.88,4,74.4,0.87,Graduated,5,28,0.64,17,0.76,Low
+S944,22,Female,Computer Science,3.55,5,85.5,0.85,Leave,19,72,0.7,1,0.72,Low
+S945,22,Female,Engineering,2.26,3,62.8,0.64,Leave,38,40,0.7,15,0.75,High
+S946,24,Female,Business,2.7,5,74.5,0.84,Active,34,84,0.59,1,0.65,Medium
+S947,22,Male,Arts,2.87,5,81.4,0.65,Leave,7,88,0.5,18,0.58,High
+S948,25,Female,Computer Science,2.79,3,99.8,0.63,Graduated,33,19,0.93,5,0.52,High
+S949,23,Female,Computer Science,3.34,5,79.0,0.81,Graduated,18,76,0.86,0,0.6,Medium
+S950,22,Male,Engineering,3.78,4,92.6,0.76,Active,6,71,0.85,10,0.79,Medium
+S951,20,Male,Arts,2.61,6,77.3,0.84,Active,30,12,0.77,17,0.89,Medium
+S952,21,Male,Engineering,3.1,6,91.9,0.64,Leave,17,27,0.85,9,0.58,High
+S953,22,Other,Engineering,3.58,5,83.8,0.77,Active,39,34,0.97,17,0.55,Medium
+S954,21,Male,Arts,2.83,3,95.5,0.67,Graduated,13,29,0.83,0,0.87,High
+S955,20,Male,Arts,2.34,3,76.4,0.99,Graduated,38,67,0.63,18,0.65,High
+S956,20,Female,Arts,2.95,4,84.2,0.82,Active,35,59,0.79,15,0.98,Medium
+S957,21,Male,Business,2.11,3,85.2,0.87,Active,16,88,0.72,6,0.86,High
+S958,18,Other,Arts,3.88,3,76.7,0.73,Active,36,19,0.78,14,0.66,High
+S959,19,Male,Computer Science,2.15,4,65.8,0.64,Leave,8,30,0.76,0,0.64,High
+S960,24,Other,Engineering,2.88,5,63.7,0.99,Leave,19,38,0.93,8,0.76,Medium
+S961,18,Male,Business,3.06,6,60.7,0.71,Graduated,27,19,0.83,1,0.54,High
+S962,18,Male,Arts,3.97,4,94.9,0.77,Leave,19,22,0.59,16,0.56,Medium
+S963,23,Male,Business,2.33,5,69.5,0.86,Leave,35,56,0.53,9,0.59,High
+S964,24,Male,Arts,2.23,4,68.5,0.61,Leave,26,32,0.71,5,0.89,High
+S965,24,Other,Business,2.02,5,89.4,0.92,Leave,7,59,0.51,4,0.76,High
+S966,18,Other,Engineering,2.31,4,72.8,0.81,Graduated,31,13,0.66,7,0.51,High
+S967,22,Female,Engineering,2.41,5,80.2,0.71,Active,0,76,0.68,7,0.84,High
+S968,23,Other,Computer Science,3.26,4,66.5,0.62,Graduated,16,62,0.69,4,0.71,High
+S969,23,Male,Computer Science,2.44,5,98.4,0.66,Leave,8,11,0.99,11,0.76,High
+S970,20,Female,Arts,2.04,4,94.1,0.96,Active,19,77,0.65,6,0.61,High
+S971,25,Female,Engineering,3.65,6,94.6,0.87,Active,31,74,0.63,12,0.78,Low
+S972,24,Female,Business,2.73,6,76.3,0.7,Active,1,88,0.56,12,0.99,High
+S973,18,Male,Business,2.71,3,90.5,0.63,Graduated,31,66,0.76,16,0.54,High
+S974,20,Other,Business,2.6,5,65.8,0.88,Active,8,79,0.58,3,0.64,Medium
+S975,21,Male,Computer Science,3.95,4,60.3,0.83,Graduated,29,16,0.81,17,0.62,Medium
+S976,19,Female,Business,2.34,5,60.8,0.76,Graduated,19,28,0.58,9,0.62,High
+S977,25,Male,Computer Science,3.8,6,83.5,0.75,Leave,37,53,0.79,2,0.69,Medium
+S978,25,Male,Computer Science,3.55,5,78.2,0.69,Leave,0,72,0.91,11,0.91,High
+S979,25,Other,Arts,2.15,4,80.7,0.87,Active,4,74,0.52,0,0.96,High
+S980,23,Other,Business,3.97,5,60.3,0.99,Active,34,48,0.71,10,0.6,Low
+S981,21,Female,Business,2.54,4,76.9,0.67,Leave,35,35,0.73,17,0.77,High
+S982,25,Male,Engineering,2.2,6,88.7,0.84,Graduated,0,53,0.9,12,0.82,High
+S983,21,Male,Arts,3.66,6,77.7,0.77,Graduated,13,21,0.73,16,0.76,Medium
+S984,22,Other,Engineering,3.41,6,89.3,0.78,Leave,8,31,0.78,7,0.72,Medium
+S985,25,Male,Arts,3.23,3,69.3,0.7,Graduated,29,86,0.9,19,0.6,High
+S986,19,Male,Business,2.31,6,92.5,0.93,Leave,23,23,0.78,18,0.74,High
+S987,21,Male,Computer Science,2.96,5,83.5,0.79,Leave,3,39,0.68,16,0.7,Medium
+S988,21,Other,Computer Science,3.56,3,68.4,0.82,Active,13,53,0.54,1,0.9,Medium
+S989,19,Female,Computer Science,2.61,6,69.5,0.72,Active,24,47,0.86,2,0.88,High
+S990,25,Female,Computer Science,2.62,5,85.1,0.67,Leave,3,68,0.94,2,0.57,High
+S991,19,Male,Computer Science,2.01,5,93.2,0.63,Active,24,51,0.99,5,0.54,High
+S992,21,Female,Engineering,2.35,5,76.6,0.89,Leave,9,61,0.96,9,0.95,High
+S993,19,Other,Arts,3.75,4,70.3,0.68,Graduated,34,72,0.9,17,0.77,High
+S994,21,Other,Business,2.88,3,94.7,0.88,Graduated,6,70,0.82,17,0.93,Medium
+S995,21,Female,Engineering,3.97,5,86.8,0.76,Graduated,12,43,0.89,13,0.53,Medium
+S996,22,Female,Arts,2.79,4,77.9,0.77,Graduated,3,48,0.72,15,0.76,Medium
+S997,18,Male,Computer Science,3.43,6,79.5,0.79,Leave,35,50,0.8,6,0.77,Medium
+S998,21,Female,Arts,2.56,5,68.2,0.75,Graduated,13,46,0.67,0,0.93,Medium
+S999,25,Male,Arts,2.73,4,85.1,0.64,Graduated,17,74,0.66,16,0.55,High
+S1000,20,Male,Computer Science,2.38,5,74.3,0.72,Graduated,7,88,0.88,4,0.62,High
+S1001,23,Other,Computer Science,2.69,3,99.8,0.87,Graduated,31,41,0.73,0,0.7,Medium
+S1002,24,Other,Computer Science,3.09,3,79.2,0.87,Leave,26,17,0.61,16,0.93,Low
+S1003,18,Other,Business,3.98,6,79.4,0.71,Graduated,36,27,0.6,9,0.97,High
+S1004,18,Other,Computer Science,3.33,5,82.6,0.78,Active,22,54,0.93,11,1.0,Medium
+S1005,18,Female,Business,2.4,4,96.7,0.68,Active,6,42,0.84,19,0.98,High
+S1006,22,Other,Computer Science,2.09,6,92.0,0.68,Active,11,14,0.77,1,0.5,High
+S1007,21,Female,Business,2.25,5,78.0,0.61,Active,24,83,0.7,15,0.52,High
+S1008,22,Other,Arts,3.13,6,88.7,0.96,Active,2,45,0.72,14,0.57,Low
+S1009,21,Female,Engineering,3.53,4,83.4,0.68,Active,25,32,0.53,12,0.67,High
+S1010,25,Male,Arts,3.88,6,79.7,0.69,Leave,3,49,0.73,17,0.91,High
+S1011,22,Female,Arts,2.03,6,67.7,0.71,Active,35,14,0.9,19,0.95,High
+S1012,22,Female,Computer Science,3.05,6,78.6,0.65,Graduated,14,43,0.69,13,0.59,High
+S1013,23,Other,Business,2.94,5,69.8,0.86,Active,31,33,0.69,17,0.81,Medium
+S1014,20,Female,Engineering,3.31,4,96.6,0.63,Leave,28,26,0.51,1,0.96,High
+S1015,22,Male,Computer Science,3.12,3,73.4,0.65,Active,9,80,0.73,1,0.73,High
+S1016,23,Male,Computer Science,3.37,5,98.1,0.86,Graduated,20,31,0.51,2,0.55,Low
+S1017,19,Other,Computer Science,3.32,3,81.3,0.74,Graduated,15,24,0.79,4,0.73,High
+S1018,20,Male,Arts,2.23,3,85.3,0.88,Leave,18,24,0.75,15,0.69,High
+S1019,25,Female,Business,3.6,5,81.7,0.82,Leave,28,34,0.92,14,0.79,Medium
+S1020,22,Male,Business,2.25,5,65.2,0.7,Leave,17,62,0.79,11,0.72,High
+S1021,24,Other,Engineering,3.4,4,75.0,0.86,Leave,15,30,0.66,8,0.51,Low
+S1022,18,Female,Business,2.83,4,64.0,0.65,Active,0,75,0.76,13,1.0,High
+S1023,19,Other,Business,3.03,6,84.9,0.81,Active,1,41,0.85,15,0.77,Medium
+S1024,19,Female,Computer Science,3.81,3,77.9,0.77,Graduated,14,30,0.55,10,0.74,Medium
+S1025,25,Male,Computer Science,3.78,4,91.1,0.71,Leave,38,77,0.81,5,0.98,High
+S1026,23,Other,Arts,3.64,6,68.8,0.84,Leave,27,53,0.96,9,0.58,Medium
+S1027,19,Other,Computer Science,3.02,4,66.6,0.95,Active,0,75,0.65,7,0.59,Low
+S1028,20,Female,Computer Science,3.47,5,76.3,1.0,Leave,4,23,0.81,15,0.9,Low
+S1029,22,Other,Computer Science,3.03,4,97.1,0.84,Graduated,21,24,0.91,2,0.63,Medium
+S1030,22,Female,Computer Science,3.74,3,88.4,0.76,Graduated,35,29,0.76,1,0.9,Medium
+S1031,24,Female,Arts,2.81,4,76.8,0.69,Leave,12,43,0.86,15,0.64,High
+S1032,25,Female,Computer Science,3.94,3,80.7,0.7,Graduated,0,45,0.66,18,0.52,High
+S1033,18,Female,Engineering,3.86,5,63.4,0.79,Graduated,15,18,0.65,8,0.76,Medium
+S1034,23,Male,Engineering,3.48,3,99.4,0.75,Active,21,80,0.83,15,0.6,Medium
+S1035,18,Female,Engineering,2.56,4,86.7,0.97,Graduated,31,39,0.85,3,0.88,Medium
+S1036,19,Other,Engineering,2.26,6,71.4,0.75,Leave,15,86,0.97,9,0.82,High
+S1037,25,Male,Computer Science,3.71,5,83.4,0.75,Leave,14,72,0.61,18,0.96,Medium
+S1038,24,Other,Engineering,2.33,4,64.4,0.75,Graduated,11,44,0.73,12,0.89,High
+S1039,18,Male,Computer Science,3.71,5,98.6,0.93,Leave,0,22,0.63,17,0.59,Low
+S1040,20,Female,Arts,2.98,5,67.0,0.86,Active,16,88,0.54,14,0.9,Medium
+S1041,22,Male,Engineering,2.81,4,85.9,0.85,Graduated,27,55,0.7,3,0.82,Medium
+S1042,19,Male,Business,3.81,4,69.8,0.73,Graduated,6,65,0.69,8,0.83,High
+S1043,24,Other,Engineering,3.21,6,88.7,0.93,Graduated,8,18,0.64,3,0.92,Low
+S1044,18,Other,Engineering,3.15,5,91.1,0.62,Leave,21,45,0.65,15,0.79,High
+S1045,23,Female,Computer Science,3.12,5,86.9,0.95,Leave,25,12,0.68,14,0.73,Low
+S1046,20,Male,Engineering,2.74,4,84.6,0.81,Graduated,11,28,0.99,1,0.82,Medium
+S1047,20,Male,Business,3.57,3,95.7,0.76,Leave,6,37,0.89,13,0.65,Medium
+S1048,18,Male,Computer Science,2.51,4,63.1,0.8,Leave,14,32,0.54,2,0.59,Medium
+S1049,22,Female,Computer Science,3.88,5,73.2,0.87,Graduated,37,16,0.94,3,0.81,Low
+S1050,18,Female,Arts,3.79,4,69.9,0.61,Graduated,20,85,0.82,0,0.62,High
+S1051,19,Female,Arts,2.67,6,99.5,0.95,Leave,13,23,0.95,8,0.54,Medium
+S1052,18,Female,Engineering,3.46,3,75.6,0.78,Graduated,1,55,0.67,16,0.5,Medium
+S1053,20,Female,Arts,3.15,4,89.3,0.74,Graduated,7,24,0.73,13,0.8,High
+S1054,24,Other,Arts,2.68,6,87.4,0.66,Graduated,5,76,0.95,16,0.68,High
+S1055,18,Male,Arts,3.98,5,68.5,0.78,Graduated,36,24,0.64,0,0.88,Medium
+S1056,22,Male,Computer Science,2.05,4,69.6,0.8,Leave,36,60,0.96,9,0.69,High
+S1057,25,Male,Computer Science,2.51,5,71.3,0.76,Graduated,32,17,0.91,15,0.74,Medium
+S1058,24,Male,Computer Science,3.04,6,76.4,0.87,Active,5,78,0.99,18,0.7,Low
+S1059,23,Male,Arts,3.04,5,69.4,0.77,Graduated,25,71,0.66,2,0.83,Medium
+S1060,21,Male,Computer Science,3.18,6,60.8,0.98,Active,38,60,0.62,11,0.68,Low
+S1061,18,Male,Arts,3.5,6,95.2,0.84,Graduated,36,72,0.67,2,0.98,Medium
+S1062,22,Male,Computer Science,3.25,6,98.6,0.92,Active,13,77,0.98,14,0.97,Low
+S1063,24,Other,Computer Science,3.2,4,73.7,0.64,Active,36,87,0.67,16,0.92,High
+S1064,22,Male,Business,2.11,5,73.5,0.76,Graduated,7,25,0.78,17,0.96,High
+S1065,23,Other,Engineering,2.75,5,60.3,0.73,Graduated,38,33,0.7,6,0.72,High
+S1066,20,Female,Arts,2.46,3,87.2,0.83,Graduated,12,15,0.7,18,0.77,High
+S1067,22,Male,Business,2.53,3,93.0,0.94,Active,12,66,0.6,6,0.87,Medium
+S1068,24,Female,Computer Science,3.11,3,65.9,0.63,Leave,39,40,0.77,4,0.85,High
+S1069,22,Female,Arts,2.4,3,66.4,0.63,Leave,27,15,0.92,7,0.95,High
+S1070,22,Female,Computer Science,2.59,5,91.6,0.94,Graduated,17,88,0.52,15,0.86,Medium
+S1071,22,Other,Engineering,2.47,6,84.7,0.69,Leave,18,38,0.94,15,1.0,High
+S1072,19,Female,Business,3.9,6,61.8,0.87,Leave,37,76,0.83,18,0.67,Low
+S1073,19,Female,Engineering,3.89,4,84.9,0.82,Graduated,31,84,0.81,14,0.92,Medium
+S1074,20,Female,Business,3.22,6,72.4,0.93,Active,21,12,0.81,6,0.85,Low
+S1075,18,Male,Computer Science,3.85,5,74.7,0.65,Graduated,1,37,0.65,4,0.85,High
+S1076,22,Male,Engineering,3.57,5,90.8,0.65,Leave,12,83,0.71,10,0.66,High
+S1077,23,Other,Engineering,3.18,5,92.4,0.82,Active,22,57,0.9,9,0.89,Medium
+S1078,18,Other,Computer Science,2.01,4,76.0,0.98,Leave,24,89,0.65,8,0.95,High
+S1079,23,Male,Engineering,3.55,3,97.9,0.77,Active,27,19,0.74,0,0.61,Medium
+S1080,18,Other,Arts,3.4,6,76.3,0.73,Leave,10,42,0.51,19,0.81,High
+S1081,20,Male,Business,3.23,5,90.9,0.84,Graduated,32,76,0.87,0,0.7,Medium
+S1082,22,Female,Business,3.52,5,79.4,0.97,Leave,23,78,0.71,7,0.99,Low
+S1083,22,Female,Business,3.03,3,95.9,0.93,Leave,1,21,0.76,2,0.74,Low
+S1084,21,Other,Arts,3.41,5,96.3,1.0,Active,29,66,0.56,1,0.61,Low
+S1085,23,Male,Business,3.87,6,63.5,0.61,Leave,16,53,1.0,3,0.69,High
+S1086,18,Male,Computer Science,2.75,4,97.5,0.65,Graduated,39,22,0.65,18,0.83,High
+S1087,18,Other,Engineering,3.42,5,93.0,0.84,Graduated,33,33,0.82,10,0.54,Medium
+S1088,25,Male,Arts,2.95,6,91.7,0.93,Graduated,37,53,0.79,4,0.8,Medium
+S1089,25,Female,Business,3.35,5,68.0,0.71,Active,21,66,0.89,9,0.97,High
+S1090,19,Other,Computer Science,3.53,3,92.2,0.7,Active,4,25,0.65,7,0.93,High
+S1091,21,Other,Engineering,2.09,5,94.0,0.91,Leave,39,30,0.88,12,0.53,High
+S1092,24,Male,Engineering,3.29,5,71.6,0.62,Leave,15,85,0.69,4,1.0,High
+S1093,25,Other,Arts,2.45,4,98.1,0.75,Leave,12,60,0.71,11,0.85,High
+S1094,24,Male,Arts,3.34,3,62.0,0.8,Active,25,30,0.84,12,0.58,Medium
+S1095,19,Male,Arts,2.94,3,66.0,0.82,Active,30,69,0.89,7,0.51,Medium
+S1096,19,Male,Computer Science,3.55,4,81.5,0.89,Leave,38,60,0.83,14,0.59,Low
+S1097,19,Male,Computer Science,2.25,5,83.0,0.74,Active,22,30,0.95,12,0.92,High
+S1098,23,Male,Arts,3.25,6,85.8,0.85,Active,11,15,0.64,0,0.51,Low
+S1099,23,Other,Business,2.56,3,60.7,0.83,Graduated,13,82,0.95,5,0.62,Medium
+S1100,20,Female,Engineering,3.71,3,98.4,0.82,Graduated,17,74,0.57,10,0.88,Medium
+S1101,20,Female,Engineering,3.86,5,61.8,0.86,Leave,26,85,0.83,12,0.79,Low
+S1102,19,Other,Computer Science,3.99,5,65.7,0.7,Leave,27,67,0.77,19,0.89,High
+S1103,21,Other,Engineering,3.59,3,60.6,0.63,Graduated,17,87,0.75,0,0.87,High
+S1104,18,Female,Business,3.51,5,82.7,0.65,Active,15,15,0.66,10,0.53,High
+S1105,23,Female,Engineering,2.43,6,97.3,0.69,Leave,15,74,0.75,10,0.95,High
+S1106,21,Female,Computer Science,2.67,3,86.6,0.8,Leave,12,43,0.58,7,0.61,Medium
+S1107,22,Female,Computer Science,2.93,6,92.9,0.94,Leave,28,65,0.68,2,0.78,Medium
+S1108,23,Female,Business,3.55,6,60.5,0.88,Active,8,84,0.55,18,0.82,Low
+S1109,23,Male,Business,3.83,5,81.7,0.92,Graduated,25,12,0.79,11,0.58,Low
+S1110,20,Other,Engineering,2.38,6,78.4,0.74,Leave,27,51,0.55,5,0.99,High
+S1111,18,Male,Engineering,3.84,5,80.0,0.76,Graduated,12,71,0.58,7,0.74,Medium
+S1112,18,Female,Computer Science,3.39,4,62.9,0.76,Graduated,35,15,0.54,4,0.53,Medium
+S1113,25,Female,Business,3.22,5,87.4,0.68,Active,8,15,0.69,9,0.97,High
+S1114,24,Female,Business,2.4,6,80.1,0.62,Active,13,72,0.92,15,0.79,High
+S1115,24,Male,Business,2.11,4,90.6,0.84,Active,11,29,0.95,11,0.85,High
+S1116,24,Male,Engineering,3.14,5,79.4,1.0,Active,31,30,0.54,16,0.76,Low
+S1117,24,Female,Business,3.3,6,66.0,0.67,Active,37,11,0.82,5,0.92,High
+S1118,22,Male,Computer Science,2.42,3,85.9,0.62,Active,2,65,0.84,8,0.52,High
+S1119,22,Male,Computer Science,3.11,3,66.9,0.91,Leave,15,19,0.77,9,0.63,Low
+S1120,23,Female,Engineering,3.71,5,94.9,0.7,Graduated,19,79,0.83,19,0.73,High
+S1121,19,Male,Arts,3.67,5,84.5,0.93,Active,31,32,0.62,13,0.54,Low
+S1122,20,Other,Engineering,3.85,3,66.3,0.88,Leave,22,39,0.74,13,0.85,Low
+S1123,20,Other,Arts,2.73,6,98.5,0.98,Graduated,16,87,0.7,16,0.7,Medium
+S1124,24,Other,Business,2.64,6,80.7,0.76,Active,15,46,0.54,15,0.64,Medium
+S1125,23,Other,Engineering,3.5,6,62.9,0.86,Active,37,64,0.81,3,0.5,Low
+S1126,25,Female,Computer Science,2.86,5,85.1,0.79,Leave,7,58,0.75,1,0.86,Medium
+S1127,21,Female,Business,2.18,4,70.1,0.85,Graduated,18,43,0.64,15,0.92,High
+S1128,19,Female,Computer Science,2.57,4,92.1,0.78,Active,29,53,0.74,0,0.7,Medium
+S1129,23,Other,Business,2.84,4,92.7,0.68,Graduated,33,31,0.89,2,0.78,High
+S1130,19,Other,Engineering,2.59,4,99.2,0.8,Leave,13,40,0.9,10,0.61,Medium
+S1131,19,Male,Arts,2.66,4,80.1,0.81,Active,21,16,0.82,15,0.81,Medium
+S1132,19,Male,Business,2.59,5,78.2,0.92,Graduated,16,30,0.73,17,0.51,Medium
+S1133,23,Other,Arts,2.08,5,90.1,0.89,Leave,14,25,0.79,14,0.74,High
+S1134,24,Other,Business,3.27,4,65.3,0.87,Leave,31,29,0.69,8,0.82,Low
+S1135,20,Other,Computer Science,3.19,5,81.9,0.65,Active,12,52,0.56,11,0.96,High
+S1136,20,Other,Computer Science,3.31,5,81.8,0.89,Graduated,20,53,0.69,17,0.69,Low
+S1137,24,Male,Business,2.38,4,63.6,0.8,Active,39,56,0.77,4,0.88,High
+S1138,19,Other,Arts,2.59,6,76.7,0.96,Active,32,28,0.8,7,0.8,Medium
+S1139,21,Male,Engineering,3.24,5,94.1,0.97,Graduated,26,57,0.97,2,0.96,Low
+S1140,18,Other,Engineering,3.2,6,94.2,0.62,Graduated,34,88,0.89,1,0.7,High
+S1141,23,Other,Computer Science,3.01,5,64.0,0.93,Graduated,15,78,0.58,18,0.66,Low
+S1142,18,Other,Engineering,2.7,5,63.6,0.62,Leave,27,20,0.59,7,0.94,High
+S1143,25,Male,Computer Science,3.83,4,70.5,0.75,Leave,33,88,0.55,1,0.52,Medium
+S1144,24,Male,Engineering,2.68,5,95.0,0.82,Graduated,0,38,0.87,18,0.57,Medium
+S1145,21,Female,Business,2.91,3,65.2,0.66,Leave,30,54,0.85,0,0.54,High
+S1146,23,Other,Computer Science,3.36,3,88.8,0.9,Active,35,77,0.99,12,0.92,Low
+S1147,24,Female,Computer Science,3.09,4,64.0,0.6,Graduated,32,45,0.76,19,0.51,High
+S1148,19,Female,Business,2.69,6,84.9,0.67,Active,32,57,0.91,16,0.93,High
+S1149,20,Male,Computer Science,2.87,6,74.2,0.83,Graduated,38,24,0.79,2,0.73,Medium
+S1150,18,Male,Engineering,3.59,6,91.6,0.89,Active,17,53,0.94,8,0.5,Low
+S1151,22,Female,Engineering,2.56,3,69.3,0.97,Graduated,22,76,0.86,4,0.7,Medium
+S1152,22,Other,Computer Science,2.28,6,85.6,0.88,Active,22,83,0.82,5,0.59,High
+S1153,21,Male,Engineering,2.63,6,69.4,0.87,Graduated,14,49,0.78,3,0.81,Medium
+S1154,19,Other,Arts,3.7,4,88.5,0.76,Graduated,25,23,0.86,16,0.84,Medium
+S1155,25,Other,Computer Science,2.18,6,94.9,0.6,Leave,29,72,0.71,15,0.74,High
+S1156,18,Female,Business,3.98,3,65.1,0.65,Active,24,60,0.55,15,0.52,High
+S1157,19,Female,Arts,3.08,3,94.7,0.81,Leave,15,88,0.52,10,0.83,Medium
+S1158,18,Female,Computer Science,3.97,3,83.7,0.87,Active,38,67,0.74,1,0.92,Low
+S1159,21,Female,Business,3.88,4,65.1,0.77,Leave,13,24,0.8,16,0.86,Medium
+S1160,21,Male,Engineering,2.91,4,77.1,0.89,Graduated,16,74,0.54,14,0.91,Medium
+S1161,25,Male,Business,2.4,5,66.4,0.81,Leave,11,64,0.64,17,0.6,High
+S1162,22,Female,Arts,2.33,6,88.0,0.63,Leave,28,85,0.66,9,0.94,High
+S1163,19,Male,Engineering,2.48,4,90.4,0.68,Graduated,31,19,0.78,5,0.66,High
+S1164,23,Female,Computer Science,3.42,3,64.2,0.94,Leave,23,51,0.64,15,0.51,Low
+S1165,22,Other,Engineering,2.55,3,80.2,0.89,Graduated,12,20,0.55,4,0.92,Medium
+S1166,19,Other,Computer Science,2.68,4,92.6,0.96,Active,19,25,0.58,11,0.97,Medium
+S1167,22,Other,Computer Science,2.9,4,97.4,0.65,Leave,14,82,0.59,5,0.83,High
+S1168,23,Female,Business,3.83,4,80.5,1.0,Graduated,3,87,0.92,13,0.62,Low
+S1169,20,Other,Business,2.38,5,98.0,0.68,Graduated,33,28,0.64,15,0.63,High
+S1170,20,Male,Business,2.01,3,81.4,0.6,Leave,27,40,0.86,6,0.73,High
+S1171,25,Other,Arts,2.12,5,75.8,1.0,Active,1,82,0.78,1,0.95,High
+S1172,20,Other,Arts,3.81,5,93.9,0.71,Leave,29,62,0.99,5,0.57,High
+S1173,20,Other,Business,3.3,6,79.7,0.87,Graduated,25,17,0.64,8,0.91,Low
+S1174,24,Male,Arts,2.55,3,78.9,0.67,Active,25,33,0.58,6,0.65,High
+S1175,18,Female,Engineering,2.35,3,79.6,0.83,Leave,19,17,0.53,1,0.9,High
+S1176,24,Male,Engineering,2.59,4,93.9,0.96,Graduated,27,57,0.62,18,0.96,Medium
+S1177,24,Female,Arts,2.23,4,93.3,0.73,Leave,19,39,0.84,7,0.71,High
+S1178,25,Female,Arts,3.88,6,76.1,0.87,Active,10,67,0.54,10,0.68,Low
+S1179,24,Other,Engineering,3.57,5,73.3,0.68,Active,9,64,0.62,3,0.9,High
+S1180,20,Female,Computer Science,2.92,4,79.7,0.85,Active,22,82,0.93,15,0.76,Medium
+S1181,23,Male,Engineering,3.73,4,82.9,0.73,Active,36,71,0.79,17,0.84,High
+S1182,25,Male,Engineering,2.5,3,69.5,0.68,Active,18,57,0.53,12,0.81,High
+S1183,25,Female,Arts,3.43,3,91.8,0.73,Leave,17,13,0.52,4,0.58,High
+S1184,21,Other,Engineering,3.71,4,79.5,0.67,Active,26,46,0.53,1,0.92,High
+S1185,25,Other,Arts,2.71,3,73.4,0.96,Active,5,17,0.97,10,0.6,Medium
+S1186,21,Male,Arts,3.51,6,64.3,0.76,Graduated,9,10,0.92,0,0.97,Medium
+S1187,25,Other,Business,2.59,4,69.6,0.7,Active,1,79,0.92,12,0.63,High
+S1188,18,Female,Engineering,2.6,3,98.0,0.78,Graduated,23,56,0.96,4,0.87,Medium
+S1189,20,Female,Computer Science,2.21,6,72.2,0.73,Graduated,37,84,0.75,17,0.64,High
+S1190,25,Male,Business,2.88,3,66.8,0.9,Graduated,27,14,0.62,13,0.66,Medium
+S1191,20,Female,Arts,3.46,3,78.4,0.99,Leave,27,59,0.7,12,0.66,Low
+S1192,20,Male,Arts,3.88,3,72.3,0.78,Leave,38,33,0.86,6,0.87,Medium
+S1193,22,Female,Computer Science,3.21,4,61.4,0.94,Graduated,1,56,0.94,7,0.78,Low
+S1194,25,Male,Arts,3.73,5,72.9,0.83,Leave,4,27,0.72,17,0.94,Medium
+S1195,19,Other,Engineering,3.64,3,81.8,0.66,Active,10,37,0.77,6,0.65,High
+S1196,22,Female,Business,2.35,6,82.1,0.88,Leave,9,86,0.97,19,0.85,High
+S1197,19,Female,Arts,2.97,4,74.3,0.81,Active,1,14,0.55,16,0.88,Medium
+S1198,20,Male,Arts,2.23,4,77.9,0.86,Active,14,39,0.93,15,0.58,High
+S1199,20,Male,Computer Science,3.36,6,98.6,0.96,Leave,38,10,0.58,10,0.7,Low
+S1200,22,Female,Engineering,3.9,3,75.1,0.78,Leave,36,55,0.74,18,0.74,Medium
+S1201,22,Male,Arts,2.27,5,70.3,0.96,Graduated,6,78,0.61,0,0.68,High
+S1202,19,Female,Computer Science,3.47,3,69.7,0.9,Leave,19,40,0.8,7,0.66,Low
+S1203,21,Other,Arts,3.26,6,78.3,0.8,Leave,33,79,0.78,0,0.84,Medium
+S1204,19,Male,Computer Science,3.17,4,90.4,0.84,Leave,34,65,0.69,8,0.61,Medium
+S1205,22,Female,Computer Science,2.78,5,68.2,0.73,Active,33,37,0.93,18,0.85,High
+S1206,23,Other,Engineering,2.71,4,88.4,0.99,Active,21,25,0.83,8,0.97,Medium
+S1207,22,Other,Arts,2.09,6,60.8,0.87,Active,30,63,0.86,9,0.78,High
+S1208,23,Female,Engineering,2.44,3,76.8,0.62,Graduated,22,62,0.58,10,0.81,High
+S1209,18,Male,Computer Science,2.03,5,91.0,0.73,Graduated,18,21,0.94,0,0.53,High
+S1210,22,Female,Business,3.16,4,73.5,0.85,Graduated,3,29,0.58,19,0.93,Low
+S1211,18,Other,Arts,2.21,4,82.5,0.62,Active,23,43,0.61,7,0.64,High
+S1212,21,Female,Business,3.75,4,68.2,0.61,Leave,19,62,0.56,19,0.81,High
+S1213,19,Male,Arts,3.05,3,89.7,0.78,Graduated,38,73,0.72,11,0.99,Medium
+S1214,23,Other,Engineering,3.4,5,62.1,0.73,Graduated,27,32,0.94,0,0.8,High
+S1215,19,Female,Engineering,2.82,3,94.1,0.78,Active,38,36,0.63,9,0.86,Medium
+S1216,18,Male,Engineering,3.12,3,67.9,0.71,Graduated,16,26,0.69,3,0.72,High
+S1217,23,Other,Engineering,3.89,3,95.0,0.67,Leave,18,57,0.92,14,0.53,High
+S1218,19,Male,Engineering,2.17,6,74.1,0.88,Active,34,30,0.81,18,0.9,High
+S1219,22,Other,Business,2.51,6,88.9,0.81,Active,31,59,0.88,5,0.52,Medium
+S1220,20,Female,Engineering,3.56,6,72.8,0.68,Leave,38,49,0.61,4,0.85,High
+S1221,18,Male,Computer Science,2.2,5,96.2,0.73,Leave,34,12,0.86,4,0.51,High
+S1222,19,Other,Computer Science,2.15,3,65.1,0.84,Leave,29,26,0.61,17,0.93,High
+S1223,18,Male,Business,2.72,3,67.1,0.63,Graduated,16,70,0.99,2,0.58,High
+S1224,24,Male,Arts,2.18,6,79.7,0.66,Leave,28,59,0.78,1,0.76,High
+S1225,18,Female,Computer Science,3.17,3,63.3,0.63,Active,5,15,0.85,3,0.8,High
+S1226,23,Male,Arts,2.45,3,67.8,0.92,Leave,16,37,0.56,17,0.73,High
+S1227,24,Other,Business,3.79,4,97.8,0.9,Active,16,81,0.63,8,0.67,Low
+S1228,25,Other,Arts,3.57,3,99.1,0.9,Active,13,64,0.57,18,0.73,Low
+S1229,23,Other,Arts,3.4,4,75.1,0.89,Graduated,23,67,0.7,9,0.66,Low
+S1230,20,Other,Arts,3.23,3,96.9,0.87,Leave,36,54,0.64,14,0.72,Low
+S1231,24,Female,Arts,3.73,5,81.8,0.79,Graduated,39,81,0.87,0,0.68,Medium
+S1232,25,Male,Business,2.45,6,70.8,0.86,Leave,38,28,0.55,10,0.78,High
+S1233,22,Female,Computer Science,3.75,4,88.1,0.62,Leave,31,38,0.88,13,0.62,High
+S1234,18,Male,Engineering,3.58,6,86.4,0.85,Leave,35,32,0.52,9,0.99,Low
+S1235,19,Male,Arts,3.5,4,99.6,0.91,Leave,36,41,0.6,18,0.75,Low
+S1236,21,Male,Computer Science,3.12,4,70.6,0.8,Leave,13,19,0.9,15,0.6,Medium
+S1237,18,Female,Computer Science,2.49,4,86.9,0.74,Active,26,58,0.87,7,0.74,High
+S1238,25,Male,Business,2.85,5,62.1,0.71,Active,18,74,0.74,1,0.93,High
+S1239,18,Female,Computer Science,3.59,3,64.5,0.86,Leave,30,38,0.52,6,0.51,Low
+S1240,20,Other,Business,2.06,4,60.2,0.88,Active,8,68,0.8,18,0.84,High
+S1241,22,Other,Arts,3.56,5,100.0,0.95,Graduated,37,54,0.7,6,0.77,Low
+S1242,21,Male,Arts,2.48,4,92.1,0.74,Graduated,16,76,0.66,14,0.58,High
+S1243,24,Female,Engineering,2.29,3,91.5,0.91,Graduated,18,60,0.82,7,0.91,High
+S1244,24,Other,Engineering,2.23,4,80.4,0.82,Leave,3,20,0.72,13,0.68,High
+S1245,24,Female,Engineering,2.05,5,72.0,0.95,Leave,10,15,0.55,0,0.65,High
+S1246,25,Female,Computer Science,3.05,3,66.1,0.81,Active,21,76,0.96,12,0.91,Medium
+S1247,23,Male,Arts,2.44,5,71.4,0.81,Active,3,71,0.89,2,0.82,High
+S1248,23,Other,Business,3.98,3,75.0,0.83,Active,16,14,0.53,5,0.95,Medium
+S1249,19,Male,Engineering,3.15,3,90.3,0.9,Graduated,7,18,0.76,18,0.81,Low
+S1250,21,Male,Business,2.28,6,81.6,0.99,Graduated,33,37,0.54,14,0.87,High
+S1251,24,Other,Business,3.38,6,63.1,0.63,Graduated,10,86,0.92,3,0.92,High
+S1252,23,Other,Engineering,3.8,6,60.7,0.62,Graduated,30,47,0.81,2,0.53,High
+S1253,25,Female,Arts,3.49,3,64.1,0.98,Active,10,52,0.59,3,0.89,Low
+S1254,19,Other,Engineering,2.15,4,76.4,0.81,Leave,37,30,0.51,4,0.81,High
+S1255,22,Female,Business,3.79,5,97.3,0.85,Leave,20,71,0.52,17,0.53,Low
+S1256,19,Female,Engineering,3.59,5,85.5,0.79,Graduated,29,55,0.75,9,0.75,Medium
+S1257,23,Female,Business,2.32,5,92.1,0.64,Leave,9,79,0.87,7,0.54,High
+S1258,20,Other,Business,2.1,6,78.7,0.91,Leave,25,47,0.56,11,0.87,High
+S1259,25,Male,Engineering,3.11,3,74.5,0.9,Leave,26,58,0.61,2,0.77,Low
+S1260,20,Female,Computer Science,2.31,6,64.3,0.72,Graduated,7,84,0.66,17,0.98,High
+S1261,24,Male,Engineering,3.67,4,95.0,0.72,Active,38,48,0.61,7,0.59,High
+S1262,20,Male,Computer Science,2.72,3,91.3,0.94,Active,7,80,0.7,0,0.8,Medium
+S1263,24,Other,Business,3.83,5,66.7,0.63,Leave,7,39,0.78,13,0.61,High
+S1264,24,Male,Business,3.13,6,80.5,0.95,Active,33,30,0.84,12,0.81,Low
+S1265,23,Male,Computer Science,2.37,6,79.5,0.7,Active,15,10,0.98,11,0.86,High
+S1266,20,Other,Business,2.28,4,85.0,0.84,Graduated,12,41,0.97,2,0.86,High
+S1267,24,Female,Computer Science,3.15,4,97.8,0.97,Graduated,22,17,0.79,17,0.91,Low
+S1268,21,Male,Computer Science,3.52,6,83.2,0.87,Leave,11,78,0.87,12,0.93,Low
+S1269,22,Other,Business,3.56,4,81.6,0.77,Leave,26,39,0.98,14,0.54,Medium
+S1270,19,Male,Arts,2.55,5,62.0,0.88,Leave,21,17,0.54,9,0.67,Medium
+S1271,19,Male,Computer Science,2.41,4,62.5,0.74,Graduated,31,28,0.5,0,0.84,High
+S1272,23,Female,Engineering,2.03,4,67.5,0.71,Active,26,68,0.51,5,0.75,High
+S1273,20,Male,Engineering,3.36,6,61.3,1.0,Graduated,1,64,0.78,8,0.6,Low
+S1274,20,Other,Business,2.15,6,89.7,0.9,Graduated,32,39,0.88,9,0.78,High
+S1275,24,Male,Arts,2.84,3,88.9,0.86,Active,25,88,0.68,14,0.7,Medium
+S1276,25,Female,Business,3.2,3,65.4,0.74,Active,27,45,0.77,8,0.7,High
+S1277,18,Female,Arts,3.87,6,93.4,0.62,Leave,18,64,0.76,13,0.9,High
+S1278,24,Other,Computer Science,2.62,4,66.2,0.61,Active,4,53,0.55,10,0.7,High
+S1279,22,Female,Computer Science,2.5,4,72.0,0.82,Active,32,36,0.66,6,0.51,Medium
+S1280,21,Male,Computer Science,3.31,3,70.0,0.9,Active,19,86,0.51,1,0.53,Low
+S1281,19,Female,Computer Science,3.24,3,74.9,0.81,Active,29,87,0.56,13,0.93,Medium
+S1282,24,Other,Engineering,2.66,3,70.2,0.94,Leave,7,63,0.91,5,0.98,Medium
+S1283,18,Female,Engineering,3.86,5,79.6,0.61,Leave,37,57,0.91,4,0.84,High
+S1284,18,Female,Business,3.69,5,76.3,0.75,Active,16,39,0.9,4,0.68,Medium
+S1285,24,Female,Arts,2.45,3,99.5,0.69,Active,0,48,0.86,18,0.97,High
+S1286,23,Other,Computer Science,2.48,4,62.2,0.78,Leave,2,22,0.9,18,0.83,High
+S1287,19,Female,Computer Science,3.02,3,65.7,0.63,Leave,25,25,0.84,5,0.92,High
+S1288,23,Female,Arts,3.55,5,62.1,0.98,Active,30,53,0.83,9,0.88,Low
+S1289,21,Male,Arts,2.09,4,85.0,0.69,Graduated,7,80,0.83,13,0.69,High
+S1290,18,Other,Business,3.39,5,62.2,0.97,Leave,7,36,0.76,16,0.74,Low
+S1291,18,Female,Arts,3.3,4,93.5,0.77,Leave,34,54,0.68,2,0.59,Medium
+S1292,22,Other,Computer Science,2.46,5,80.5,0.99,Leave,38,44,0.87,0,0.65,High
+S1293,21,Female,Computer Science,3.36,4,81.1,0.82,Active,27,88,0.65,9,0.89,Medium
+S1294,18,Female,Computer Science,3.88,4,82.5,0.97,Active,3,37,0.77,2,0.95,Low
+S1295,21,Female,Computer Science,2.09,4,66.8,0.6,Leave,15,16,0.72,4,0.86,High
+S1296,19,Male,Computer Science,2.64,4,67.9,0.9,Active,12,71,0.64,18,0.73,Medium
+S1297,20,Male,Business,2.88,6,72.8,0.96,Active,19,60,0.99,9,0.54,Medium
+S1298,18,Male,Computer Science,3.8,5,83.7,0.66,Leave,4,55,0.63,15,0.53,High
+S1299,22,Other,Business,3.92,5,68.4,0.64,Active,36,29,0.65,0,0.69,High
+S1300,19,Other,Computer Science,2.89,6,64.7,0.77,Graduated,19,47,0.58,5,0.73,Medium
+S1301,24,Male,Engineering,3.5,4,98.8,0.97,Active,23,70,0.91,8,0.8,Low
+S1302,21,Other,Engineering,3.06,4,60.9,0.82,Active,35,41,0.79,4,0.5,Medium
+S1303,24,Female,Engineering,3.08,5,92.1,0.81,Leave,33,35,0.81,13,0.99,Medium
+S1304,23,Female,Engineering,2.56,6,91.5,0.66,Leave,33,67,0.91,9,0.68,High
+S1305,19,Female,Business,2.43,4,71.9,0.6,Graduated,18,48,0.67,1,0.92,High
+S1306,24,Male,Business,2.58,4,65.4,0.92,Active,16,29,0.6,4,0.77,Medium
+S1307,25,Other,Arts,3.11,4,65.8,0.64,Graduated,4,59,0.6,0,0.57,High
+S1308,25,Male,Computer Science,2.06,3,87.9,0.85,Graduated,24,88,0.87,9,0.9,High
+S1309,18,Other,Engineering,3.81,6,85.7,0.97,Leave,17,61,0.81,8,0.85,Low
+S1310,21,Female,Business,2.31,4,91.3,0.68,Active,7,31,0.6,2,0.76,High
+S1311,20,Male,Computer Science,2.44,3,97.5,0.87,Leave,26,62,0.57,14,0.76,High
+S1312,19,Other,Computer Science,3.04,6,87.7,0.63,Graduated,14,75,0.56,3,0.54,High
+S1313,18,Other,Business,3.42,4,66.2,0.84,Graduated,12,52,0.81,12,0.83,Medium
+S1314,22,Female,Engineering,2.19,5,69.7,0.67,Leave,15,32,0.5,5,0.96,High
+S1315,23,Male,Arts,2.64,3,93.7,0.89,Leave,21,86,0.51,19,0.55,Medium
+S1316,21,Male,Computer Science,3.94,3,68.4,0.72,Leave,19,73,0.69,16,0.63,High
+S1317,19,Male,Arts,2.52,4,62.9,0.79,Leave,12,18,0.85,4,0.95,Medium
+S1318,25,Female,Engineering,2.63,4,88.1,0.84,Leave,19,16,0.85,14,0.64,Medium
+S1319,19,Male,Engineering,3.67,3,76.1,0.67,Graduated,1,50,0.72,7,0.83,High
+S1320,20,Female,Arts,2.1,5,96.8,0.9,Leave,34,63,0.85,4,0.77,High
+S1321,25,Female,Engineering,2.93,5,86.0,0.72,Active,18,74,0.76,12,0.8,High
+S1322,20,Female,Computer Science,2.76,6,63.6,0.86,Graduated,36,11,0.99,0,0.71,Medium
+S1323,22,Other,Arts,2.63,4,97.9,0.66,Graduated,5,13,0.58,0,0.65,High
+S1324,23,Male,Engineering,2.57,5,70.3,0.88,Active,13,87,0.8,6,0.52,Medium
+S1325,22,Male,Arts,2.18,6,73.5,0.65,Active,3,41,0.75,4,0.87,High
+S1326,18,Female,Computer Science,2.63,5,76.1,0.77,Graduated,21,11,0.6,13,0.87,Medium
+S1327,18,Female,Engineering,2.09,4,62.0,0.7,Leave,38,73,0.87,14,0.84,High
+S1328,22,Male,Computer Science,3.56,6,79.9,0.9,Graduated,35,23,0.64,16,0.82,Low
+S1329,23,Female,Engineering,2.8,6,64.9,0.7,Graduated,33,29,0.69,17,0.62,High
+S1330,22,Male,Business,2.89,6,76.0,0.95,Active,26,58,0.69,6,0.51,Medium
+S1331,23,Other,Engineering,3.79,5,74.0,0.96,Graduated,6,17,0.62,17,0.9,Low
+S1332,23,Female,Arts,3.32,4,90.9,0.68,Leave,2,72,0.72,18,0.75,High
+S1333,24,Male,Engineering,2.02,6,92.1,0.85,Active,32,55,0.74,19,0.65,High
+S1334,25,Female,Computer Science,3.89,3,66.1,0.64,Graduated,1,30,0.87,6,0.55,High
+S1335,21,Male,Computer Science,2.47,4,74.7,0.76,Graduated,15,41,0.88,7,0.53,High
+S1336,23,Male,Engineering,2.22,3,74.9,0.89,Leave,24,17,0.58,12,0.67,High
+S1337,20,Female,Arts,3.54,3,66.1,0.86,Graduated,14,25,0.8,17,0.9,Low
+S1338,23,Other,Business,3.0,6,91.9,0.85,Graduated,23,49,0.95,10,0.96,Low
+S1339,23,Male,Arts,2.87,6,88.3,0.71,Graduated,14,36,0.55,8,0.95,High
+S1340,23,Male,Business,2.5,5,67.6,0.75,Graduated,30,27,0.74,0,0.96,Medium
+S1341,24,Male,Computer Science,3.09,5,74.7,0.64,Leave,13,44,0.88,7,0.95,High
+S1342,25,Other,Arts,2.55,5,64.2,0.89,Graduated,13,61,0.81,11,0.76,Medium
+S1343,24,Other,Business,3.8,4,85.1,0.8,Graduated,5,24,0.55,1,0.61,Medium
+S1344,18,Female,Engineering,2.43,5,64.9,0.88,Graduated,13,72,0.7,14,0.9,High
+S1345,24,Other,Computer Science,3.77,3,99.4,0.7,Active,16,62,0.75,17,0.61,High
+S1346,20,Female,Engineering,3.12,5,91.2,0.73,Leave,17,75,1.0,16,0.63,High
+S1347,20,Female,Computer Science,3.66,6,75.6,0.73,Active,19,40,0.59,14,0.62,High
+S1348,24,Other,Arts,3.43,5,83.1,0.61,Active,16,70,0.99,19,0.76,High
+S1349,25,Female,Arts,3.39,4,96.5,0.74,Leave,15,73,0.69,19,0.66,High
+S1350,22,Other,Computer Science,2.65,4,82.2,0.92,Active,39,43,0.6,8,0.58,Medium
+S1351,21,Female,Computer Science,2.47,3,67.0,0.96,Active,38,64,0.71,2,0.73,High
+S1352,25,Other,Computer Science,2.42,4,75.1,0.81,Active,31,68,0.81,19,0.94,High
+S1353,24,Other,Arts,3.71,5,93.7,0.78,Leave,8,12,0.61,18,0.79,Medium
+S1354,23,Female,Business,3.64,6,85.8,0.61,Graduated,26,26,0.65,17,0.94,High
+S1355,19,Male,Engineering,2.88,4,86.0,0.95,Leave,32,87,0.93,19,0.6,Medium
+S1356,21,Female,Engineering,2.26,3,94.7,0.61,Leave,9,87,1.0,7,0.58,High
+S1357,21,Other,Arts,2.76,5,95.8,0.98,Leave,16,55,0.66,0,0.79,Medium
+S1358,20,Male,Engineering,3.24,3,96.8,0.8,Active,35,47,0.57,14,0.73,Medium
+S1359,21,Female,Computer Science,2.91,4,63.8,0.74,Graduated,16,44,0.9,18,0.83,High
+S1360,24,Female,Business,3.56,4,81.8,0.97,Leave,17,10,0.8,9,0.9,Low
+S1361,23,Female,Engineering,4.0,3,89.6,0.61,Leave,22,38,0.55,11,0.88,High
+S1362,23,Male,Business,2.38,5,90.3,0.83,Graduated,33,13,0.97,5,0.97,High
+S1363,18,Other,Computer Science,2.92,4,84.3,0.82,Graduated,7,70,0.54,12,0.7,Medium
+S1364,23,Female,Engineering,2.86,6,66.7,0.69,Graduated,12,26,0.81,3,0.6,High
+S1365,25,Female,Arts,2.61,4,91.9,0.77,Active,22,37,0.71,12,0.78,Medium
+S1366,23,Female,Business,2.4,5,88.8,0.86,Graduated,19,59,0.78,16,0.56,High
+S1367,20,Female,Computer Science,2.13,4,63.4,0.89,Active,21,17,0.61,0,0.64,High
+S1368,23,Female,Business,3.77,3,78.6,0.6,Leave,22,43,0.84,4,0.6,High
+S1369,18,Other,Engineering,2.84,4,67.0,0.97,Active,34,68,0.98,16,0.7,Medium
+S1370,19,Other,Engineering,2.99,4,73.5,0.67,Graduated,2,27,0.73,17,0.56,High
+S1371,24,Female,Arts,3.83,5,60.7,0.69,Active,33,68,0.76,6,0.52,High
+S1372,20,Male,Computer Science,3.55,3,76.0,0.71,Graduated,32,36,0.62,15,0.83,High
+S1373,25,Other,Computer Science,2.26,5,82.0,0.62,Active,16,25,0.95,7,0.81,High
+S1374,19,Male,Arts,3.13,4,84.8,0.65,Leave,18,19,0.99,11,0.85,High
+S1375,20,Other,Arts,2.88,6,86.5,0.99,Active,29,85,0.89,13,0.83,Medium
+S1376,22,Female,Computer Science,3.59,4,93.5,0.73,Leave,22,31,0.77,18,0.56,High
+S1377,21,Other,Business,3.45,5,68.6,0.65,Graduated,14,25,0.98,10,0.65,High
+S1378,22,Female,Business,3.38,6,64.8,0.64,Leave,13,21,0.58,11,0.56,High
+S1379,23,Other,Arts,2.68,5,94.1,0.89,Graduated,1,84,0.74,12,0.92,Medium
+S1380,19,Female,Business,3.61,5,66.3,0.94,Graduated,38,60,0.77,7,0.87,Low
+S1381,23,Female,Computer Science,2.1,3,99.0,0.7,Leave,17,10,0.75,0,0.6,High
+S1382,21,Female,Engineering,2.32,6,93.7,0.61,Leave,5,36,0.9,8,0.67,High
+S1383,20,Female,Engineering,2.67,4,80.0,0.69,Active,31,76,0.84,1,0.98,High
+S1384,21,Male,Business,2.15,5,99.3,0.62,Active,20,21,0.56,13,0.8,High
+S1385,18,Female,Arts,2.47,4,63.9,0.64,Leave,39,39,0.67,12,0.9,High
+S1386,21,Male,Arts,3.66,3,72.1,0.77,Leave,27,18,0.67,15,0.63,Medium
+S1387,18,Male,Arts,3.9,3,85.5,0.69,Leave,26,62,0.78,1,0.61,High
+S1388,21,Female,Arts,2.61,6,74.0,0.81,Leave,1,70,0.65,3,0.89,Medium
+S1389,24,Male,Arts,2.53,3,97.1,0.7,Graduated,32,63,0.56,11,0.84,High
+S1390,18,Other,Business,2.56,3,62.6,0.98,Leave,15,46,0.83,15,0.84,Medium
+S1391,19,Female,Engineering,2.56,4,82.0,0.96,Leave,38,74,0.93,9,0.78,Medium
+S1392,23,Male,Engineering,2.07,3,83.6,0.83,Leave,21,51,0.97,2,0.78,High
+S1393,25,Female,Business,3.85,3,86.1,0.74,Leave,12,58,0.99,3,0.87,High
+S1394,23,Female,Arts,2.43,5,70.2,0.75,Graduated,1,13,0.89,5,0.64,High
+S1395,22,Female,Business,2.84,3,74.6,0.76,Active,13,73,0.57,4,0.68,Medium
+S1396,23,Male,Engineering,2.02,5,93.7,0.89,Active,37,88,0.93,17,0.94,High
+S1397,20,Other,Computer Science,3.72,3,67.8,0.78,Active,27,60,0.7,2,0.65,Medium
+S1398,24,Other,Business,3.46,3,93.1,0.94,Active,6,81,0.86,9,0.77,Low
+S1399,21,Male,Arts,3.89,6,82.5,0.98,Active,17,69,0.77,10,0.85,Low
+S1400,22,Female,Engineering,3.56,6,90.5,0.73,Graduated,35,88,0.91,18,1.0,High
+S1401,20,Male,Engineering,2.63,5,88.5,0.82,Active,35,40,0.71,13,0.72,Medium
+S1402,20,Male,Engineering,2.5,3,68.3,0.64,Graduated,3,81,0.53,10,0.71,High
+S1403,18,Male,Engineering,3.4,4,82.8,0.68,Graduated,29,67,0.78,3,0.92,High
+S1404,23,Female,Arts,2.73,6,94.7,0.77,Active,23,13,0.59,5,0.9,Medium
+S1405,19,Male,Computer Science,3.13,4,77.3,0.68,Active,19,31,0.98,16,0.87,High
+S1406,25,Female,Engineering,2.01,6,98.7,0.95,Active,30,12,0.76,18,0.73,High
+S1407,19,Male,Business,2.12,6,78.1,0.66,Leave,23,88,0.78,12,0.66,High
+S1408,22,Other,Computer Science,3.07,3,65.7,0.78,Graduated,6,56,0.95,9,0.8,Medium
+S1409,24,Male,Engineering,3.13,6,75.6,0.84,Active,25,47,0.81,10,0.94,Medium
+S1410,19,Male,Computer Science,3.5,4,98.1,0.88,Leave,12,42,0.65,5,0.94,Low
+S1411,21,Other,Business,2.26,6,72.8,0.75,Graduated,7,87,0.65,1,0.55,High
+S1412,19,Female,Engineering,3.03,5,94.7,0.95,Leave,4,57,0.75,0,0.71,Low
+S1413,22,Female,Business,2.39,3,95.3,0.83,Leave,12,74,0.93,10,0.73,High
+S1414,25,Male,Arts,2.19,3,74.0,0.78,Active,28,35,0.9,15,0.99,High
+S1415,19,Other,Engineering,2.82,5,63.3,0.63,Graduated,19,17,0.98,2,0.84,High
+S1416,21,Female,Engineering,2.33,5,89.0,0.79,Leave,13,59,0.54,4,0.7,High
+S1417,18,Male,Engineering,2.44,5,72.5,0.93,Graduated,31,89,0.63,14,0.51,High
+S1418,24,Other,Engineering,2.64,6,91.3,0.85,Active,26,47,0.54,14,0.78,Medium
+S1419,22,Female,Arts,2.52,3,77.7,0.93,Graduated,24,19,0.88,3,0.55,Medium
+S1420,18,Female,Engineering,2.18,5,79.4,0.8,Leave,3,51,0.57,3,0.92,High
+S1421,18,Other,Computer Science,2.18,6,91.1,0.65,Leave,20,46,0.55,7,0.88,High
+S1422,18,Other,Engineering,2.39,5,75.3,0.61,Graduated,17,35,0.78,6,0.73,High
+S1423,20,Other,Arts,2.1,4,77.7,0.72,Leave,38,21,0.71,16,0.71,High
+S1424,24,Other,Engineering,3.25,4,75.0,0.88,Leave,14,58,0.86,14,0.95,Low
+S1425,25,Male,Computer Science,2.57,3,74.7,0.92,Leave,37,23,0.74,4,0.64,Medium
+S1426,23,Other,Arts,2.56,6,81.0,0.72,Active,23,55,0.71,12,0.62,High
+S1427,24,Female,Arts,2.66,4,92.4,0.8,Active,7,44,0.71,3,0.97,Medium
+S1428,20,Female,Computer Science,3.33,4,74.5,0.77,Leave,27,38,0.94,16,0.9,Medium
+S1429,23,Male,Computer Science,3.74,6,81.0,0.76,Graduated,20,21,0.7,16,0.91,Medium
+S1430,24,Female,Computer Science,3.52,5,86.8,0.69,Active,15,53,0.67,13,0.6,High
+S1431,18,Female,Computer Science,3.46,6,70.8,0.65,Graduated,15,75,0.67,13,0.57,High
+S1432,22,Other,Computer Science,2.97,5,71.1,0.68,Leave,34,11,0.6,16,0.51,High
+S1433,23,Female,Arts,3.39,4,97.3,0.62,Leave,16,68,0.93,7,0.62,High
+S1434,21,Male,Arts,3.11,4,88.9,0.68,Graduated,8,26,0.57,1,0.89,High
+S1435,21,Other,Engineering,2.43,4,83.1,0.6,Active,34,19,0.95,12,0.62,High
+S1436,19,Other,Engineering,2.42,3,85.9,0.85,Graduated,28,27,0.64,15,0.86,High
+S1437,23,Male,Business,2.59,3,61.2,0.73,Graduated,38,31,0.95,15,0.63,High
+S1438,22,Other,Engineering,3.82,3,84.7,0.99,Leave,17,67,0.9,5,0.7,Low
+S1439,25,Other,Engineering,3.09,6,80.4,0.68,Active,11,62,0.79,3,0.99,High
+S1440,20,Male,Computer Science,3.47,4,81.8,0.74,Graduated,18,10,0.83,2,0.62,High
+S1441,18,Other,Computer Science,2.69,4,74.4,0.74,Active,21,70,0.66,5,0.69,High
+S1442,19,Male,Engineering,2.82,6,63.3,0.6,Leave,14,40,0.79,3,0.65,High
+S1443,21,Male,Business,2.25,3,67.7,0.94,Active,0,40,0.65,17,0.55,High
+S1444,20,Female,Computer Science,2.34,6,98.0,0.61,Leave,1,75,0.7,5,0.74,High
+S1445,20,Female,Engineering,3.65,3,76.3,0.98,Active,7,28,0.88,4,0.69,Low
+S1446,18,Other,Engineering,3.17,4,78.7,0.96,Graduated,21,62,0.62,8,0.85,Low
+S1447,25,Other,Arts,2.68,5,62.1,0.81,Leave,24,85,0.92,10,0.91,Medium
+S1448,25,Male,Business,3.61,3,61.5,0.82,Graduated,1,83,0.69,5,0.77,Medium
+S1449,23,Other,Arts,2.49,4,88.7,0.86,Leave,8,31,0.77,15,0.52,High
+S1450,21,Male,Business,3.95,4,81.5,0.75,Active,8,32,0.97,18,0.81,Medium
+S1451,25,Male,Computer Science,2.69,5,80.3,0.86,Active,12,24,0.84,10,0.53,Medium
+S1452,22,Other,Business,2.67,4,69.7,0.62,Leave,5,35,0.82,14,0.81,High
+S1453,25,Male,Engineering,2.62,4,89.8,0.62,Leave,29,12,0.86,8,0.84,High
+S1454,20,Female,Engineering,2.24,3,66.7,0.78,Leave,14,29,0.96,18,0.6,High
+S1455,18,Other,Business,2.22,3,67.6,0.82,Active,14,49,0.62,18,0.91,High
+S1456,22,Female,Business,3.3,5,78.4,0.96,Leave,6,48,0.81,8,0.96,Low
+S1457,23,Other,Business,3.75,5,71.5,0.64,Leave,10,81,0.7,3,0.91,High
+S1458,21,Male,Arts,3.58,4,69.9,0.93,Graduated,39,27,0.51,9,0.65,Low
+S1459,23,Other,Business,2.28,3,85.8,0.68,Leave,37,50,0.56,8,0.79,High
+S1460,20,Female,Computer Science,3.09,5,86.0,0.76,Graduated,39,79,0.66,18,0.96,Medium
+S1461,22,Male,Arts,2.21,5,93.0,0.73,Graduated,1,36,0.78,14,0.66,High
+S1462,22,Other,Arts,2.09,6,76.7,0.76,Graduated,38,24,0.94,18,0.91,High
+S1463,22,Other,Business,3.31,5,62.9,0.66,Active,9,46,0.9,1,0.5,High
+S1464,20,Other,Computer Science,3.07,4,70.9,0.8,Graduated,16,67,0.78,9,0.5,Medium
+S1465,20,Female,Arts,2.16,3,99.2,0.92,Leave,6,14,0.54,18,0.88,High
+S1466,23,Female,Engineering,2.07,5,83.9,0.78,Active,39,82,0.64,16,0.88,High
+S1467,19,Other,Arts,3.98,6,88.4,0.8,Active,38,16,0.68,19,0.89,Medium
+S1468,23,Male,Business,2.06,3,60.3,0.94,Active,3,50,0.81,1,0.97,High
+S1469,21,Male,Computer Science,2.89,5,80.7,0.88,Active,34,19,0.53,18,0.56,Medium
+S1470,18,Female,Business,3.01,6,61.5,0.8,Active,35,71,0.77,16,0.62,Medium
+S1471,22,Male,Engineering,2.23,5,82.8,0.7,Active,30,35,0.95,17,0.95,High
+S1472,19,Female,Engineering,2.34,3,96.8,0.95,Active,24,77,0.85,16,0.59,High
+S1473,18,Other,Engineering,2.7,3,98.7,0.83,Graduated,12,33,0.9,1,0.84,Medium
+S1474,19,Female,Business,3.52,3,81.6,0.69,Leave,17,87,0.84,18,0.77,High
+S1475,25,Female,Arts,3.01,4,78.3,0.71,Leave,20,50,0.6,0,0.54,High
+S1476,25,Other,Business,3.28,5,97.8,0.92,Graduated,0,74,0.56,10,0.64,Low
+S1477,24,Male,Computer Science,3.97,4,86.9,0.62,Graduated,35,26,0.91,9,0.76,High
+S1478,25,Female,Arts,3.54,3,62.6,1.0,Active,7,33,0.85,4,0.93,Low
+S1479,23,Female,Engineering,2.87,6,78.6,0.65,Active,20,36,0.79,15,0.85,High
+S1480,25,Other,Business,2.89,5,69.6,0.92,Graduated,20,16,0.59,4,0.81,Medium
+S1481,20,Male,Engineering,3.24,4,78.8,0.76,Active,26,82,0.8,11,0.75,Medium
+S1482,22,Female,Engineering,3.33,5,78.2,0.8,Leave,18,21,0.52,3,0.65,Medium
+S1483,23,Other,Computer Science,3.0,6,83.3,0.95,Leave,22,12,0.56,5,0.56,Low
+S1484,18,Female,Arts,3.29,4,74.3,0.77,Active,34,88,0.66,18,0.7,Medium
+S1485,24,Other,Computer Science,2.05,3,66.6,0.81,Active,39,19,0.72,8,0.51,High
+S1486,24,Male,Computer Science,2.86,4,80.1,0.62,Active,4,42,0.56,11,0.61,High
+S1487,24,Male,Computer Science,2.56,5,93.2,0.6,Leave,7,55,0.56,14,0.72,High
+S1488,18,Male,Engineering,2.26,5,86.6,0.7,Active,10,68,0.86,15,0.71,High
+S1489,18,Male,Computer Science,2.2,5,73.5,0.87,Graduated,15,61,0.78,12,0.52,High
+S1490,18,Female,Computer Science,3.21,5,97.4,0.65,Active,38,15,0.77,6,0.79,High
+S1491,18,Female,Arts,3.05,3,96.5,0.65,Graduated,23,11,0.73,19,0.77,High
+S1492,24,Male,Arts,2.51,4,68.4,0.76,Active,20,38,0.99,3,0.54,Medium
+S1493,24,Male,Computer Science,2.94,3,61.6,0.86,Active,22,49,0.52,10,0.97,Medium
+S1494,19,Male,Arts,2.98,3,89.7,0.88,Leave,37,70,0.59,7,0.55,Medium
+S1495,23,Female,Arts,2.39,3,93.1,0.67,Graduated,7,77,0.82,5,0.93,High
+S1496,22,Male,Computer Science,3.3,5,98.7,0.63,Graduated,6,77,0.57,9,0.5,High
+S1497,25,Male,Engineering,3.56,5,95.6,0.98,Graduated,1,38,0.79,6,0.94,Low
+S1498,25,Male,Computer Science,3.58,5,84.0,0.7,Leave,29,71,0.78,6,0.51,High
+S1499,20,Other,Arts,3.2,4,81.2,0.94,Graduated,12,69,0.99,3,0.88,Low
+S1500,24,Male,Engineering,3.02,6,61.1,0.95,Leave,22,50,0.94,2,0.68,Low
+S1501,20,Other,Business,2.12,5,69.9,0.91,Active,28,74,0.97,6,0.87,High
+S1502,23,Other,Engineering,2.58,4,78.4,0.67,Active,37,73,0.56,3,0.7,High
+S1503,23,Male,Arts,2.19,5,85.1,0.93,Graduated,36,88,0.93,12,0.54,High
+S1504,20,Other,Engineering,3.93,5,82.3,0.91,Active,19,72,0.56,19,0.88,Low
+S1505,24,Male,Computer Science,2.27,3,89.7,0.84,Active,32,57,0.82,16,0.54,High
+S1506,20,Female,Business,2.3,3,71.2,0.73,Graduated,28,29,0.86,6,0.96,High
+S1507,25,Female,Business,3.78,3,82.6,0.71,Active,14,46,0.58,16,0.53,High
+S1508,19,Female,Business,3.89,4,63.5,0.65,Graduated,22,73,0.82,3,0.74,High
+S1509,25,Female,Arts,3.53,6,76.5,0.8,Graduated,2,14,0.53,10,0.86,Medium
+S1510,21,Other,Arts,2.01,6,90.0,0.83,Active,36,43,0.65,2,0.7,High
+S1511,24,Male,Business,2.0,4,87.7,0.74,Active,28,48,0.96,10,0.61,High
+S1512,24,Male,Engineering,2.76,5,99.6,0.79,Active,7,76,0.59,2,0.88,Medium
+S1513,22,Male,Business,2.29,4,71.1,0.75,Active,21,71,0.53,11,0.89,High
+S1514,18,Female,Engineering,2.04,5,79.9,0.86,Active,28,33,0.72,0,0.96,High
+S1515,21,Female,Engineering,2.93,4,73.2,0.96,Leave,1,12,0.93,3,0.69,Medium
+S1516,23,Male,Arts,3.89,4,77.6,0.67,Active,0,80,0.54,13,0.75,High
+S1517,24,Female,Engineering,2.65,4,94.3,0.75,Leave,19,76,0.68,0,0.68,Medium
+S1518,20,Male,Business,3.32,6,87.4,0.66,Graduated,20,88,0.95,13,0.63,High
+S1519,21,Male,Arts,3.3,3,95.3,0.85,Active,36,59,0.56,12,0.88,Low
+S1520,22,Male,Computer Science,2.5,4,68.1,0.89,Active,7,38,0.66,12,0.67,Medium
+S1521,23,Male,Computer Science,3.3,6,94.9,0.97,Active,26,83,0.89,14,0.71,Low
+S1522,18,Male,Arts,2.42,3,62.4,0.71,Graduated,34,41,0.77,16,0.7,High
+S1523,18,Male,Business,2.24,3,95.5,0.98,Leave,5,48,0.92,11,0.86,High
+S1524,22,Male,Computer Science,3.4,4,73.2,0.63,Leave,18,18,0.56,13,0.96,High
+S1525,22,Female,Computer Science,2.23,5,72.6,0.84,Active,17,23,0.96,11,0.83,High
+S1526,20,Male,Engineering,3.99,5,80.5,0.62,Active,0,77,0.97,17,0.74,High
+S1527,24,Male,Engineering,2.37,5,97.6,0.96,Active,24,73,0.58,3,0.89,High
+S1528,18,Female,Business,3.19,4,61.9,0.81,Active,26,29,0.52,13,0.82,Medium
+S1529,23,Female,Arts,2.82,5,74.1,0.87,Graduated,6,37,0.99,18,0.53,Medium
+S1530,21,Female,Business,2.25,6,94.3,0.93,Active,28,23,0.74,12,0.55,High
+S1531,23,Male,Arts,2.06,6,75.8,0.66,Graduated,30,53,0.79,17,0.52,High
+S1532,19,Other,Computer Science,3.25,6,68.0,0.62,Active,35,86,0.81,10,0.73,High
+S1533,19,Other,Engineering,3.61,6,77.0,0.95,Leave,18,48,0.89,5,0.91,Low
+S1534,22,Female,Business,3.68,3,75.4,0.73,Leave,5,37,0.91,8,0.66,High
+S1535,20,Other,Business,2.97,6,96.6,0.65,Active,24,73,0.6,11,0.69,High
+S1536,19,Female,Arts,3.55,5,90.5,0.79,Active,30,41,0.62,18,0.95,Medium
+S1537,18,Male,Arts,3.35,4,80.2,0.84,Graduated,8,18,0.94,13,0.92,Medium
+S1538,23,Other,Business,3.45,5,99.5,0.61,Active,19,37,0.91,14,0.83,High
+S1539,23,Male,Arts,2.99,6,78.6,0.71,Active,9,26,0.81,10,0.63,High
+S1540,22,Other,Business,3.27,3,62.3,0.61,Active,36,86,1.0,5,0.56,High
+S1541,24,Male,Business,3.61,6,70.5,0.77,Leave,26,64,0.87,13,0.51,Medium
+S1542,24,Other,Business,2.8,4,77.4,0.96,Graduated,12,19,0.61,2,0.55,Medium
+S1543,21,Male,Computer Science,3.61,5,66.3,0.99,Leave,1,89,0.92,18,0.65,Low
+S1544,22,Male,Arts,3.18,4,97.9,0.85,Graduated,20,15,0.71,19,0.78,Low
+S1545,25,Other,Engineering,2.33,4,90.7,0.66,Leave,32,57,0.52,10,0.53,High
